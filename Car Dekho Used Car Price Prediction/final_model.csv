@@ -1,0 +1,1476 @@
+Fuel type,body type,transmission,ownerNo,Brand,model,modelYear,price,Insurance Validity,Kms Driven,Mileage,Seats,Color,City
+Petrol,Hatchback,Manual,3,Maruti,Maruti Celerio,2015,4.0,Third Party insurance,120000,23.1,5,White,Bangalore
+Petrol,SUV,Manual,2,Ford,Ford Ecosport,2018,8.11,Comprehensive,32706,17.0,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Tata,Tata Tiago,2018,5.85,Comprehensive,11949,23.84,5,Red,Bangalore
+Petrol,Sedan,Manual,1,Hyundai,Hyundai Xcent,2014,4.62,Comprehensive,17794,19.1,5,Others,Bangalore
+Diesel,SUV,Manual,1,Maruti,Maruti SX4 S Cross,2015,7.9,Third Party insurance,60000,23.65,5,Gray,Bangalore
+Diesel,SUV,Manual,1,Jeep,Jeep Compass,2020,19.0,Third Party insurance,20000,17.1,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Datsun,Datsun GO,2017,3.45,Comprehensive,37772,20.63,5,Grey,Bangalore
+Petrol,SUV,Automatic,1,Hyundai,Hyundai Venue,2021,12.0,Third Party insurance,30000,18.15,5,Others,Bangalore
+Petrol,Sedan,Automatic,1,Maruti,Maruti Ciaz,2018,9.6,Comprehensive,37000,20.28,5,Maroon,Bangalore
+Petrol,Hatchback,Manual,1,Tata,Tata Tiago,2017,5.85,Comprehensive,11949,23.84,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Baleno,2018,6.9,Third Party insurance,50000,21.4,5,Red,Bangalore
+Petrol,Hatchback,Automatic,1,Hyundai,Hyundai Grand i10,2019,6.82,Third Party insurance,24887,18.9,5,Orange,Bangalore
+Petrol,Hatchback,Automatic,1,Honda,Honda Jazz,2018,8.25,Comprehensive,23000,18.2,5,Grey,Bangalore
+Petrol,Hatchback,Automatic,1,Tata,Tata Tiago,2018,5.95,Comprehensive,48928,23.84,5,Red,Bangalore
+Diesel,SUV,Manual,3,Mahindra,Mahindra XUV500,2014,6.9,Comprehensive,108862,15.1,7,Silver,Bangalore
+Diesel,SUV,Manual,1,Jeep,Jeep Compass,2018,13.5,Third Party insurance,80000,17.1,5,Others,Bangalore
+Diesel,SUV,Automatic,1,Mercedes-Benz,Mercedes-Benz GLA,2022,55.95,Comprehensive,16000,18.976466898954705,5,Blue,Bangalore
+Diesel,Hatchback,Manual,2,Hyundai,Hyundai i20,2014,5.21,Comprehensive,65376,21.27,5,Blue,Bangalore
+Petrol,SUV,Manual,1,Tata,Tata Nexon,2022,10.05,Third Party insurance,10000,17.33,5,Others,Bangalore
+Petrol,Sedan,Manual,2,Honda,Honda City,2016,7.75,Comprehensive,67000,17.8,5,Brown,Bangalore
+Diesel,Sedan,Automatic,3,BMW,BMW 5 Series,2011,22.0,Third Party insurance,100000,18.48,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2016,5.82,Comprehensive,18083,22.38,5,Silver,Bangalore
+Petrol,SUV,Manual,1,Renault,Renault Duster,2020,10.9,Third Party insurance,30000,16.42,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Tata,Tata Tiago,2016,4.57,Comprehensive,57634,23.84,5,Silver,Bangalore
+Petrol,Sedan,Automatic,2,Mercedes-Benz,Mercedes-Benz S-Class,2016,49.0,Third Party insurance,50000,7.81,5,Others,Bangalore
+Petrol,Sedan,Manual,1,Honda,Honda City,2015,5.5,Third Party insurance,110000,17.4,5,Others,Bangalore
+Petrol,Hatchback,Automatic,1,Hyundai,Hyundai Santro,2018,5.7,Comprehensive,23447,20.3,5,Yellow,Bangalore
+Lpg,Hatchback,Manual,2,Hyundai,Hyundai Santro Xing,2009,2.2,Third Party insurance,30000,13.45,5,Others,Bangalore
+Petrol,Sedan,Automatic,1,Mercedes-Benz,Mercedes-Benz E-Class,2017,41.45,Comprehensive,33000,15.0,5,White,Bangalore
+Diesel,SUV,Manual,2,Mahindra,Mahindra XUV500,2014,8.61,Third Party,87667,15.1,7,Black,Bangalore
+Diesel,Sedan,Automatic,2,Audi,Audi A4,2016,17.85,Third Party insurance,40000,17.11,5,Others,Bangalore
+Diesel,SUV,Manual,2,Mahindra,Mahindra XUV500,2014,8.03,Comprehensive,79012,15.1,7,Silver,Bangalore
+Diesel,SUV,Manual,1,Jeep,Jeep Compass,2021,25.65,Comprehensive,31344,17.1,5,Black,Bangalore
+Petrol,Sedan,Manual,1,Hyundai,Hyundai Xcent,2018,6.74,Third Party insurance,50000,20.14,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Wagon R,2015,3.49,Comprehensive,12434,20.51,5,Brown,Bangalore
+Petrol,MUV,Manual,2,Maruti,Maruti Ertiga,2019,10.5,Third Party insurance,60000,19.34,7,Others,Bangalore
+Diesel,Sedan,Automatic,1,Mercedes-Benz,Mercedes-Benz C-Class,2019,44.25,Comprehensive,12000,12.6,5,White,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Wagon R,2015,4.06,Comprehensive,40987,20.51,5,White,Bangalore
+Petrol,Sedan,Automatic,1,BMW,BMW 5 Series,2020,49.65,Zero Dep,18157,15.56,5,Blue,Bangalore
+Diesel,SUV,Manual,3,Toyota,Toyota Fortuner,2011,11.0,Third Party insurance,120000,11.5,7,Others,Bangalore
+Diesel,SUV,Automatic,2,Renault,Renault Duster,2020,11.0,Third Party insurance,40000,19.87,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2016,5.94,Comprehensive,89667,18.6,5,White,Bangalore
+Diesel,Hatchback,Manual,1,Hyundai,Hyundai i20,2017,7.1,Third Party insurance,120000,22.54,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Baleno,2017,6.92,Zero Dep,56997,21.4,5,Blue,Bangalore
+Petrol,Sedan,Manual,1,Hyundai,Hyundai Elantra,2013,6.5,Third Party insurance,120000,16.3,5,Others,Bangalore
+Diesel,Sedan,Automatic,1,Audi,Audi A6,2015,20.9,Third Party insurance,59000,18.53,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Alto 800,2021,4.11,Zero Dep,18835,22.05,5,Silver,Bangalore
+Diesel,SUV,Manual,2,Mahindra,Mahindra Scorpio,2010,6.5,Third Party insurance,120000,12.05,7,Gray,Bangalore
+Petrol,Hatchback,Automatic,1,Mini,Mini 3 DOOR,2016,36.75,Comprehensive,40000,17.33,4,White,Bangalore
+Petrol,Hatchback,Manual,1,Tata,Tata Tiago,2019,6.1,Comprehensive,60932,23.84,5,Red,Bangalore
+Petrol,SUV,Automatic,2,Kia,Kia Seltos,2020,16.75,Comprehensive,33539,16.5,5,White,Bangalore
+Petrol,Hatchback,Manual,2,Tata,Tata Tiago,2018,5.3,Comprehensive,66837,23.84,5,Brown,Bangalore
+Diesel,Sedan,Automatic,1,Mercedes-Benz,Mercedes-Benz E-Class,2022,79.9,Third Party,400,18.976466898954705,5,White,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Alto,2008,2.5,Third Party insurance,60000,19.7,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2019,7.15,Third Party insurance,44285,18.6,5,Grey,Bangalore
+Diesel,SUV,Automatic,2,Mercedes-Benz,Mercedes-Benz GL-Class,2014,35.0,Third Party insurance,100000,11.3,7,Others,Bangalore
+Diesel,SUV,Automatic,1,Tata,Tata New Safari,2021,22.5,Comprehensive,25000,14.08,6,White,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Grand i10,2018,6.25,Comprehensive,36735,18.9,5,Blue,Bangalore
+Diesel,SUV,Automatic,1,Audi,Audi Q7,2015,26.95,Comprehensive,79000,12.07,7,White,Bangalore
+Diesel,SUV,Manual,2,Mahindra,Mahindra Scorpio,2010,6.5,Third Party insurance,120000,12.05,8,Gray,Bangalore
+Petrol,Hatchback,Automatic,1,Renault,Renault KWID,2022,5.5,Third Party insurance,10000,22.0,5,Others,Bangalore
+Diesel,SUV,Manual,1,Tata,Tata Nexon,2018,8.25,Comprehensive,53645,21.5,5,White,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai Getz,2006,2.2,Third Party insurance,100000,15.3,5,Others,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Celerio,2014,4.28,Comprehensive,53982,26.68,5,Others,Bangalore
+Diesel,Sedan,Manual,1,Skoda,Skoda Rapid,2014,6.95,Third Party insurance,110000,21.14,5,Black,Bangalore
+Petrol,SUV,Manual,2,Ford,Ford Ecosport,2019,9.3,Third Party insurance,37741,15.9,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Alto 800,2021,4.55,Comprehensive,17367,22.05,5,Silver,Bangalore
+Diesel,SUV,Manual,1,Hyundai,Hyundai Creta,2017,11.95,Comprehensive,94000,19.67,5,Grey,Bangalore
+Diesel,SUV,Automatic,1,Tata,Tata Harrier,2021,21.75,Comprehensive,33700,14.6,5,Grey,Bangalore
+Petrol,Hatchback,Manual,3,Maruti,Maruti Swift,2014,4.42,Comprehensive,54601,22.38,5,White,Bangalore
+Diesel,Hatchback,Manual,1,Maruti,Maruti Swift,2018,6.9,Third Party insurance,110000,28.4,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Celerio,2017,5.0,Third Party,64000,23.1,5,Red,Bangalore
+Diesel,Sedan,Automatic,1,BMW,BMW 3 Series GT,2016,33.95,Comprehensive,40525,21.76,5,White,Bangalore
+Diesel,Sedan,Manual,1,Maruti,Maruti Ciaz,2015,6.5,Third Party insurance,100000,26.21,5,White,Bangalore
+Petrol,Hatchback,Automatic,2,Honda,Honda Jazz,2016,5.37,Comprehensive,44154,19.0,5,White,Bangalore
+Diesel,MUV,Manual,1,Renault,Renault Lodgy,2016,7.5,Third Party insurance,70000,19.98,7,White,Bangalore
+Petrol,Sedan,Automatic,1,Skoda,Skoda Octavia,2018,17.9,Comprehensive,79000,15.1,5,White,Bangalore
+Petrol,Hatchback,Manual,2,Tata,Tata Tiago,2017,4.68,Third Party insurance,68039,23.84,5,Orange,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Ritz,2014,4.2,Third Party insurance,60000,18.5,5,Silver,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Ritz,2014,4.2,Third Party insurance,60000,18.5,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2021,9.2,Third Party insurance,10000,20.0,5,Others,Bangalore
+Petrol,Sedan,Manual,1,Honda,Honda City,2013,5.33,Third Party,49873,16.8,5,Yellow,Bangalore
+Petrol,Hatchback,Automatic,3,Volkswagen,Volkswagen Polo,2013,8.5,Third Party insurance,90000,17.2,5,Others,Bangalore
+Diesel,Sedan,Manual,2,Skoda,Skoda Rapid,2017,7.51,Third Party insurance,48960,21.13,5,Silver,Bangalore
+Diesel,Hatchback,Manual,2,Hyundai,Hyundai Grand i10,2014,3.88,Third Party insurance,70000,24.0,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai i20,2013,4.9,Comprehensive,68000,18.5,5,Silver,Bangalore
+Diesel,SUV,Manual,1,Mahindra,Mahindra KUV 100,2016,4.94,Third Party,23017,25.32,6,Orange,Bangalore
+Diesel,Hatchback,Manual,2,Hyundai,Hyundai i20,2013,5.25,Comprehensive,83000,21.27,5,Brown,Bangalore
+Diesel,SUV,Automatic,2,BMW,BMW X3,2016,28.9,Comprehensive,92000,16.55,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Wagon R,2018,5.5,Comprehensive,62139,20.51,5,Red,Bangalore
+Lpg,Hatchback,Manual,1,Hyundai,Hyundai i10,2013,3.65,Comprehensive,74000,19.2,5,Grey,Bangalore
+Petrol,Hatchback,Automatic,2,Renault,Renault KWID,2016,4.2,Comprehensive,26500,24.04,5,Red,Bangalore
+Diesel,Sedan,Automatic,1,Volvo,Volvo S60,2017,18.95,Comprehensive,81716,27.03,5,Silver,Bangalore
+Diesel,Sedan,Automatic,2,Mercedes-Benz,Mercedes-Benz E-Class,2018,59.9,Comprehensive,24000,17.0,5,White,Bangalore
+Petrol,SUV,Automatic,1,Mahindra,Mahindra XUV300,2022,10.5,Third Party insurance,10000,17.0,5,White,Bangalore
+Petrol,SUV,Automatic,1,MG,MG Hector Plus,2021,20.75,Comprehensive,18000,16.56,6,Black,Bangalore
+Petrol,Hatchback,Manual,1,Honda,Honda Brio,2013,3.94,Third Party,38197,19.4,5,Others,Bangalore
+Petrol,Hatchback,Automatic,2,Maruti,Maruti Baleno,2017,7.25,Comprehensive,23000,19.56,5,Grey,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Alto K10,2013,2.4,Third Party insurance,50000,20.92,5,Red,Bangalore
+Petrol,SUV,Automatic,1,Renault,Renault Kiger,2022,8.35,Third Party insurance,10000,19.03,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Grand i10,2019,6.95,Third Party insurance,19000,18.9,5,Blue,Bangalore
+Petrol,SUV,Automatic,1,Kia,Kia Seltos,2020,17.25,Comprehensive,14000,16.5,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai EON,2014,3.3,Comprehensive,29268,21.1,5,White,Bangalore
+Petrol,Sedan,Automatic,1,Volkswagen,Volkswagen Vento,2019,9.9,Third Party insurance,20000,18.19,5,Others,Bangalore
+Petrol,Sedan,Manual,1,Toyota,Toyota Yaris,2018,7.5,Third Party insurance,30000,17.1,5,Others,Bangalore
+Diesel,SUV,Manual,1,MG,MG Hector,2021,17.5,Third Party insurance,30000,17.41,5,Others,Bangalore
+Petrol,SUV,Automatic,1,Hyundai,Hyundai Alcazar,2022,20.83,Comprehensive,7100,14.2,6,White,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i10,2010,2.71,Comprehensive,43679,19.81,5,Silver,Bangalore
+Petrol,SUV,Automatic,1,Hyundai,Hyundai Creta,2018,12.8,Third Party insurance,40000,14.8,5,Others,Bangalore
+Diesel,Hatchback,Manual,1,Hyundai,Hyundai i20,2012,4.36,Third Party,40562,22.54,5,Red,Bangalore
+Petrol,SUV,Automatic,2,Hyundai,Hyundai Creta,2021,16.75,Comprehensive,26500,18.976466898954705,5,White,Bangalore
+Petrol,SUV,Automatic,1,Hyundai,Hyundai Venue,2019,12.5,Third Party insurance,20000,18.15,5,Others,Bangalore
+Diesel,SUV,Automatic,1,Mahindra,Mahindra XUV500,2016,13.5,Third Party insurance,58600,16.0,7,Silver,Bangalore
+Petrol,SUV,Automatic,1,Hyundai,Hyundai Venue,2019,12.5,Third Party insurance,20000,18.15,5,Others,Bangalore
+Petrol,SUV,Automatic,1,Volkswagen,Volkswagen T-Roc,2020,22.25,Comprehensive,42050,18.4,5,White,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Celerio,2015,4.75,2,65017,23.1,5,White,Bangalore
+Diesel,Sedan,Automatic,2,BMW,BMW 3 Series,2008,6.0,Third Party insurance,80000,13.2,5,Others,Bangalore
+Petrol,SUV,Automatic,1,Jeep,Jeep Compass,2021,24.5,Third Party insurance,30000,14.1,5,Others,Bangalore
+Petrol,SUV,Automatic,1,Kia,Kia Seltos,2020,16.25,Third Party insurance,20000,16.5,5,Others,Bangalore
+Petrol,Hatchback,Manual,3,Hyundai,Hyundai i10,2009,2.49,Third Party insurance,80000,20.36,5,Others,Bangalore
+Diesel,SUV,Automatic,2,Audi,Audi Q5,2016,25.99,Third Party insurance,30000,14.16,5,Others,Bangalore
+Petrol,Hatchback,Manual,3,Hyundai,Hyundai i10,2009,2.49,Third Party insurance,80000,20.36,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Alto K10,2017,3.85,Third Party,52204,24.39,5,Silver,Bangalore
+Petrol,Hatchback,Manual,3,Hyundai,Hyundai i20,2012,3.0,Third Party insurance,110000,17.0,5,Red,Bangalore
+Diesel,SUV,Automatic,1,Ford,Ford Endeavour,2017,29.75,Third Party insurance,89000,10.91,7,Black,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Alto 800,2014,2.76,Comprehensive,29813,22.05,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Ford,Ford Figo,2018,5.0,Third Party insurance,30000,18.16,5,Gray,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Ignis,2020,7.3,Comprehensive,13345,20.89,5,White,Bangalore
+Diesel,SUV,Automatic,1,Hyundai,Hyundai Alcazar,2022,22.45,Comprehensive,17100,18.1,7,Grey,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Grand i10,2014,3.99,Comprehensive,75000,18.9,5,Grey,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai i10,2011,3.12,Comprehensive,75523,20.36,5,Red,Bangalore
+Diesel,SUV,Manual,1,Mahindra,Mahindra XUV500,2015,12.75,Comprehensive,47000,16.0,7,Silver,Bangalore
+Diesel,SUV,Manual,1,Tata,Tata Harrier,2022,19.9,Comprehensive,36500,16.35,5,White,Bangalore
+Petrol,MUV,Manual,1,Renault,Renault Triber,2020,7.19,Comprehensive,28253,20.0,7,Silver,Bangalore
+Diesel,SUV,Manual,1,Hyundai,Hyundai Creta,2016,12.6,Third Party insurance,50000,19.67,5,White,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai i10,2010,3.0,Third Party insurance,90000,20.36,5,Others,Bangalore
+Diesel,SUV,Automatic,2,BMW,BMW X5,2016,39.81,Third Party insurance,70000,15.97,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2016,6.27,Comprehensive,52571,18.6,5,Grey,Bangalore
+Diesel,Sedan,Automatic,2,BMW,BMW 3 Series,2010,13.0,Third Party insurance,70000,16.07,5,Others,Bangalore
+Petrol,Sedan,Manual,1,Honda,Honda City,2015,6.72,Comprehensive,61993,17.4,5,Silver,Bangalore
+Diesel,SUV,Automatic,1,Hyundai,Hyundai Tucson,2017,18.25,Comprehensive,57000,16.38,5,White,Bangalore
+Diesel,SUV,Manual,2,Toyota,Toyota Fortuner,2021,35.0,Third Party insurance,80000,14.24,7,Others,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2013,4.4,Comprehensive,36359,18.5,5,Blue,Bangalore
+Diesel,SUV,Manual,2,Tata,Tata Harrier,2019,14.6,Third Party insurance,70000,17.0,5,Others,Bangalore
+Petrol,SUV,Automatic,1,MG,MG Hector,2022,20.41,Comprehensive,7500,18.976466898954705,5,White,Bangalore
+Petrol,Sedan,Automatic,1,Hyundai,Hyundai Verna,2017,10.33,Comprehensive,30301,17.0,5,Black,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i10,2010,2.75,Comprehensive,66000,20.36,5,Golden,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2017,6.76,Comprehensive,56010,18.6,5,White,Bangalore
+Diesel,SUV,Automatic,1,Mercedes-Benz,Mercedes-Benz GLC,2017,42.9,Comprehensive,47000,17.9,5,White,Bangalore
+Diesel,SUV,Manual,2,Nissan,Nissan Terrano,2014,6.5,Third Party insurance,60000,19.01,5,Others,Bangalore
+Diesel,Hatchback,Manual,1,Maruti,Maruti Swift,2014,4.44,Third Party insurance,83829,25.2,5,Red,Bangalore
+Petrol,Hatchback,Automatic,1,Renault,Renault KWID,2020,5.1,Third Party insurance,10000,22.0,5,Others,Bangalore
+Diesel,SUV,Automatic,2,Renault,Renault Duster,2016,9.25,Comprehensive,35000,19.6,5,Grey,Bangalore
+Petrol,Sedan,Automatic,2,Honda,Honda City,2019,10.24,Comprehensive,51116,18.0,5,White,Bangalore
+Diesel,Sedan,Manual,3,Skoda,Skoda Rapid,2016,5.0,Third Party insurance,80000,21.14,5,Others,Bangalore
+Petrol,Hatchback,Automatic,2,Volkswagen,Volkswagen Polo,2017,9.95,Third Party insurance,40000,17.21,5,Others,Bangalore
+Petrol,SUV,Automatic,2,Honda,Honda CR-V,2012,9.35,Comprehensive,85565,11.1,5,White,Bangalore
+Petrol,SUV,Manual,1,Ford,Ford Ecosport,2018,8.34,Comprehensive,36916,17.0,5,Others,Bangalore
+Diesel,Hatchback,Manual,1,Volkswagen,Volkswagen Polo,2015,5.6,Third Party insurance,90000,20.14,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2012,4.54,Comprehensive,112795,22.38,5,Silver,Bangalore
+Petrol,Sedan,Automatic,1,Mercedes-Benz,Mercedes-Benz A-Class Limousine,2021,36.9,Comprehensive,11000,18.976466898954705,5,Silver,Bangalore
+Petrol,MUV,Manual,2,Toyota,Toyota Innova,2014,11.0,Third Party insurance,120000,11.4,7,Others,Bangalore
+Petrol,Hatchback,Manual,2,Honda,Honda Brio,2016,4.62,Comprehensive,36685,19.4,5,Red,Bangalore
+Diesel,SUV,Automatic,2,Hyundai,Hyundai Santa Fe,2012,9.0,Third Party insurance,120000,11.72,7,Others,Bangalore
+Petrol,Sedan,Automatic,1,BMW,BMW 6 Series,2022,79.0,Comprehensive,4000,13.32,4,Blue,Bangalore
+Petrol,Hatchback,Automatic,2,Maruti,Maruti Baleno,2019,8.43,Third Party,32184,21.4,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Baleno RS,2018,7.99,Comprehensive,32279,21.1,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2015,5.76,Comprehensive,59698,18.6,5,White,Bangalore
+Diesel,SUV,Manual,1,Renault,Renault Captur,2018,9.49,Comprehensive,46071,20.37,5,Grey,Bangalore
+Diesel,SUV,Manual,1,Maruti,Maruti Vitara Brezza,2017,7.95,Third Party insurance,90000,24.3,5,Yellow,Bangalore
+Petrol,SUV,Manual,1,Hyundai,Hyundai Venue,2019,10.85,Third Party,9554,18.27,5,Blue,Bangalore
+Petrol,SUV,Automatic,1,Jeep,Jeep Compass,2022,25.9,Comprehensive,14000,14.1,5,Green,Bangalore
+Diesel,SUV,Manual,2,Renault,Renault Duster,2013,5.16,Third Party,74499,20.45,5,Brown,Bangalore
+Petrol,SUV,Automatic,2,Ford,Ford Ecosport,2017,7.77,Comprehensive,56211,14.8,5,Grey,Bangalore
+Petrol,Hatchback,Manual,1,Honda,Honda Jazz,2019,7.53,Comprehensive,9001,18.2,5,White,Bangalore
+Diesel,SUV,Automatic,2,Mahindra,Mahindra XUV500,2017,12.26,Third Party insurance,65457,16.0,7,Orange,Bangalore
+Petrol,Hatchback,Manual,1,Honda,Honda Jazz,2017,7.25,Comprehensive,23682,18.7,5,Red,Bangalore
+Diesel,Sedan,Manual,1,Hyundai,Hyundai Verna,2020,11.5,Third Party insurance,50000,22.0,5,Red,Bangalore
+Diesel,Hatchback,Manual,2,Maruti,Maruti Swift,2015,6.29,Comprehensive,134557,25.2,5,White,Bangalore
+Petrol,Sedan,Manual,2,Maruti,Maruti Swift Dzire,2013,4.47,Comprehensive,96567,22.41,5,Blue,Bangalore
+Petrol,Hatchback,Manual,3,Maruti,Maruti Celerio,2015,4.0,Third Party insurance,120000,23.1,5,White,Bangalore
+Diesel,MUV,Manual,2,Maruti,Maruti Ertiga,2014,7.86,Comprehensive,83007,20.77,7,White,Bangalore
+Petrol,Hatchback,Manual,1,Honda,Honda Jazz,2018,7.45,Comprehensive,34000,18.7,5,Maroon,Bangalore
+Petrol,Hatchback,Automatic,1,Hyundai,Hyundai Grand i10,2014,4.9,Comprehensive,81634,18.9,5,White,Bangalore
+Petrol,Sedan,Automatic,2,Honda,Honda City,2017,9.42,Comprehensive,57284,18.0,5,Brown,Bangalore
+Petrol,SUV,Automatic,2,Ford,Ford Ecosport,2016,6.75,Third Party insurance,70000,15.63,5,Silver,Bangalore
+Petrol,Hatchback,Manual,2,Honda,Honda Brio,2013,3.3,Third Party insurance,70000,19.4,5,Red,Bangalore
+Petrol,Sedan,Automatic,2,Toyota,Toyota Yaris,2018,8.75,Third Party insurance,46429,17.8,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Baleno,2017,8.69,Comprehensive,17624,21.4,5,White,Bangalore
+Diesel,Sedan,Manual,2,Volkswagen,Volkswagen Vento,2012,4.25,Third Party insurance,100000,20.54,5,Blue,Bangalore
+Petrol,Sedan,Manual,1,Honda,Honda City,2019,10.7,Third Party insurance,30000,17.4,5,Others,Bangalore
+Petrol,SUV,Manual,2,Ford,Ford Ecosport,2018,10.25,Third Party insurance,49690,15.9,5,Blue,Bangalore
+Diesel,SUV,Manual,1,Mahindra,Mahindra XUV500,2016,10.0,Third Party insurance,110000,16.0,7,White,Bangalore
+Petrol,Sedan,Manual,1,Fiat,Fiat Linea,2009,3.75,Third Party insurance,50000,16.0,5,Gray,Bangalore
+Petrol,Sedan,Manual,1,Fiat,Fiat Linea,2009,3.75,Third Party insurance,50000,16.0,5,Gray,Bangalore
+Petrol,SUV,Automatic,1,Ford,Ford Ecosport,2018,8.44,Comprehensive,55702,14.8,5,Silver,Bangalore
+Diesel,Hatchback,Manual,1,Hyundai,Hyundai i20 Active,2016,7.64,Third Party insurance,45046,21.19,5,Brown,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Ritz,2014,4.2,Third Party insurance,53000,18.5,5,Silver,Bangalore
+Diesel,Hatchback,Manual,1,Maruti,Maruti Baleno,2016,6.84,Third Party insurance,94695,27.39,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Baleno,2019,8.03,Zero Dep,22162,21.4,5,Silver,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai Santro Xing,2010,3.2,Third Party insurance,70000,17.92,5,Others,Bangalore
+Diesel,Sedan,Manual,1,Honda,Honda City,2017,8.04,Comprehensive,115331,26.0,5,Silver,Bangalore
+Diesel,Sedan,Automatic,2,Mercedes-Benz,Mercedes-Benz E-Class,2013,14.0,Third Party insurance,70000,10.0,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Swift,2016,5.48,Comprehensive,42233,22.38,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Grand i10,2019,6.19,Comprehensive,20941,18.9,5,Others,Bangalore
+Diesel,SUV,Manual,2,Maruti,Maruti Vitara Brezza,2018,10.0,Third Party insurance,50000,24.3,5,Red,Bangalore
+Petrol,SUV,Manual,1,Honda,Honda WR-V,2018,8.65,Comprehensive,46602,17.5,5,Brown,Bangalore
+Diesel,SUV,Automatic,2,Mahindra Ssangyong,Mahindra Ssangyong Rexton,2014,10.0,Third Party insurance,50000,11.18,7,White,Bangalore
+Diesel,Hatchback,Manual,2,Maruti,Maruti Swift,2014,5.35,Comprehensive,104000,25.2,5,Red,Bangalore
+Diesel,SUV,Manual,1,Ford,Ford Ecosport,2018,9.75,Comprehensive,90000,23.0,5,Brown,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Baleno,2017,6.99,Third Party insurance,50035,21.4,5,Blue,Bangalore
+Petrol,SUV,Manual,1,Tata,Tata Nexon,2021,11.5,Third Party insurance,80000,17.57,5,Gray,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai i20,2015,6.25,Comprehensive,90000,18.6,5,Maroon,Bangalore
+Diesel,Sedan,Automatic,4,Mercedes-Benz,Mercedes-Benz E-Class,2011,10.0,Third Party insurance,90000,14.21,5,Others,Bangalore
+Diesel,Sedan,Manual,1,Toyota,Toyota Corolla Altis,2011,6.0,Third Party insurance,120000,21.43,5,Silver,Bangalore
+Petrol,Sedan,Manual,1,Maruti,Maruti Swift Dzire,2015,6.75,Third Party,25170,22.41,5,Blue,Bangalore
+Petrol,Sedan,Manual,1,Maruti,Maruti Ciaz,2021,8.93,Comprehensive,25022,20.65,5,Others,Bangalore
+Diesel,Hatchback,Manual,2,Maruti,Maruti Swift,2012,4.2,Third Party insurance,100000,22.9,5,Others,Bangalore
+Petrol,Sedan,Manual,1,Maruti,Maruti Ciaz,2020,9.41,Zero Dep,26367,20.65,5,Others,Bangalore
+Petrol,Sedan,Automatic,2,Hyundai,Hyundai Elantra,2015,6.3,Zero Dep,76567,14.5,5,Silver,Bangalore
+Diesel,MUV,Manual,2,Toyota,Toyota Innova,2013,12.75,Third Party insurance,120000,12.99,7,Others,Bangalore
+Petrol,Hatchback,Automatic,2,Hyundai,Hyundai Grand i10,2015,5.25,Comprehensive,36459,18.9,5,Red,Bangalore
+Diesel,SUV,Manual,1,Maruti,Maruti SX4 S Cross,2016,7.5,Comprehensive,93725,23.65,5,Grey,Bangalore
+Petrol,Sedan,Automatic,2,Maruti,Maruti Ciaz,2016,6.32,Comprehensive,115599,19.12,5,Silver,Bangalore
+Petrol,Sedan,Manual,1,Maruti,Maruti Swift Dzire,2015,6.45,Zero Dep,43469,22.41,5,Red,Bangalore
+Petrol,Sedan,Manual,4,Ford,Ford Ikon,2005,5.0,Third Party insurance,70000,13.8,5,Others,Bangalore
+Diesel,SUV,Automatic,2,BMW,BMW X5,2019,67.95,Comprehensive,77000,13.38,5,White,Bangalore
+Diesel,SUV,Manual,1,Maruti,Maruti Vitara Brezza,2018,8.5,Comprehensive,100000,24.3,5,Red,Bangalore
+Petrol,Sedan,Manual,1,Mitsubishi,Mitsubishi Cedia,2008,2.99,Third Party insurance,72000,14.7,5,Silver,Bangalore
+Diesel,Sedan,Automatic,1,Jaguar,Jaguar XF,2013,20.95,Comprehensive,77000,16.36,5,Blue,Bangalore
+Diesel,SUV,Automatic,1,Audi,Audi Q7,2013,28.0,Comprehensive,87101,12.07,7,White,Bangalore
+Petrol,Hatchback,Manual,2,Volkswagen,Volkswagen Polo,2021,9.99,Third Party,40771,18.24,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Honda,Honda Jazz,2018,8.25,Comprehensive,28000,18.7,5,Silver,Bangalore
+Petrol,Hatchback,Manual,3,Maruti,Maruti Wagon R,2008,2.5,Comprehensive,40000,18.9,5,Silver,Bangalore
+Petrol,SUV,Automatic,1,Hyundai,Hyundai Venue,2020,12.95,Comprehensive,26000,18.15,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Wagon R,2012,3.29,Comprehensive,76032,18.9,5,Silver,Bangalore
+Petrol,Sedan,Manual,1,Maruti,Maruti Ciaz,2018,6.66,Comprehensive,113780,21.56,5,Blue,Bangalore
+Diesel,Sedan,Automatic,1,Audi,Audi A3,2019,22.9,Third Party insurance,24000,20.38,5,White,Bangalore
+Diesel,SUV,Manual,2,Hyundai,Hyundai Venue,2020,10.26,Third Party,65812,23.7,5,White,Bangalore
+Petrol,SUV,Automatic,1,Skoda,Skoda Kushaq,2022,17.0,Third Party insurance,10000,17.2,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Baleno,2016,6.81,Zero Dep,39959,21.4,5,Orange,Bangalore
+Petrol,SUV,Automatic,1,Hyundai,Hyundai Alcazar,2022,16.9,Third Party insurance,10000,14.2,7,Others,Bangalore
+Petrol,Hatchback,Manual,3,Maruti,Maruti Alto K10,2016,3.18,Third Party insurance,65484,24.39,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Baleno,2017,6.88,Comprehensive,49174,21.4,5,Red,Bangalore
+Petrol,SUV,Manual,1,Volkswagen,Volkswagen Taigun,2022,13.0,Third Party insurance,20000,20.08,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i10,2009,2.65,Third Party insurance,50000,20.36,5,Others,Bangalore
+Petrol,Sedan,Automatic,2,Maruti,Maruti Swift Dzire,2018,6.45,Third Party insurance,40000,22.0,5,Others,Bangalore
+Petrol,SUV,Automatic,1,Hyundai,Hyundai Alcazar,2022,20.0,Third Party insurance,30000,14.2,7,White,Bangalore
+Petrol,Coupe,Automatic,3,BMW,BMW 3 Series,2007,9.0,Third Party insurance,50000,10.9,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2020,6.2,Third Party insurance,80000,21.21,5,Others,Bangalore
+Petrol,SUV,Manual,1,MG,MG Astor,2022,14.7,Third Party insurance,20000,15.43,5,Others,Bangalore
+Cng,Sedan,Manual,1,Hyundai,Hyundai Accent,2010,2.2,Third Party insurance,70000,13.2,5,Others,Bangalore
+Diesel,Sedan,Automatic,1,Audi,Audi A4,2014,14.75,Third Party insurance,90000,17.11,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Renault,Renault KWID,2020,4.15,Third Party insurance,40000,21.74,5,Blue,Bangalore
+Petrol,Hatchback,Manual,1,Honda,Honda Jazz,2016,6.1,Comprehensive,63797,18.7,5,Brown,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai Grand i10,2018,5.6,Comprehensive,60216,18.9,5,Red,Bangalore
+Petrol,Hatchback,Automatic,2,Maruti,Maruti Alto K10,2015,4.25,Third Party insurance,10000,23.95,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Baleno,2016,6.86,Comprehensive,38153,21.4,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2015,5.17,Comprehensive,76485,22.38,5,Silver,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Wagon R,2015,3.85,Third Party insurance,40000,20.51,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Baleno,2016,6.75,Comprehensive,40623,21.4,5,Blue,Bangalore
+Diesel,Sedan,Automatic,2,Mercedes-Benz,Mercedes-Benz C-Class,2018,33.0,Third Party insurance,18000,19.27,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2014,4.99,Third Party insurance,88051,22.38,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2022,7.74,Third Party,16522,22.38,5,Others,Bangalore
+Diesel,SUV,Manual,2,Jeep,Jeep Compass,2019,14.75,Third Party insurance,70000,16.3,5,Others,Bangalore
+Petrol,Hatchback,Manual,3,Maruti,Maruti Wagon R,2008,2.4,Third Party insurance,80000,18.9,5,Others,Bangalore
+Diesel,SUV,Manual,1,Hyundai,Hyundai Venue,2019,10.25,Third Party insurance,50000,23.7,5,Others,Bangalore
+Petrol,SUV,Manual,1,Tata,Tata Nexon,2023,14.0,Third Party insurance,10000,17.33,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai EON,2013,2.85,Third Party insurance,57000,21.1,5,Silver,Bangalore
+Diesel,SUV,Manual,1,Mahindra,Mahindra XUV500,2016,10.0,Third Party insurance,110000,16.0,7,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Baleno,2019,7.8,Third Party insurance,10000,21.4,5,Red,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Swift,2012,4.75,Third Party insurance,50000,18.6,5,Others,Bangalore
+Diesel,SUV,Manual,1,Mahindra,Mahindra XUV300,2019,7.5,Third Party insurance,120000,20.0,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Grand i10,2014,5.55,Comprehensive,35469,18.9,5,Grey,Bangalore
+Petrol,Hatchback,Manual,2,Honda,Honda Jazz,2017,6.07,Third Party insurance,40073,18.7,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai Grand i10,2017,5.14,Third Party insurance,65730,18.9,5,Red,Bangalore
+Petrol,Sedan,Manual,2,Maruti,Maruti Baleno,2005,2.5,Third Party insurance,120000,15.4,5,Silver,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Baleno,2016,7.05,Third Party,36184,21.4,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Baleno,2016,6.53,Comprehensive,69310,21.4,5,White,Bangalore
+Petrol,Sedan,Automatic,1,Honda,Honda City,2015,8.72,Third Party insurance,55643,18.0,5,White,Bangalore
+Petrol,Hatchback,Automatic,2,Hyundai,Hyundai Grand i10,2017,5.64,Third Party insurance,62803,18.9,5,Red,Bangalore
+Diesel,Hatchback,Manual,2,Volkswagen,Volkswagen Polo,2011,3.7,Third Party insurance,90000,22.07,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2015,5.5,Third Party insurance,68656,22.38,5,Silver,Bangalore
+Petrol,Hatchback,Manual,3,Honda,Honda Jazz,2016,5.17,Comprehensive,77501,18.7,5,Brown,Bangalore
+Petrol,Sedan,Manual,1,Maruti,Maruti Swift Dzire,2016,6.2,Third Party insurance,40000,20.85,5,Others,Bangalore
+Petrol,Sedan,Manual,1,Maruti,Maruti Swift Dzire,2016,6.2,Third Party insurance,40000,20.85,5,Others,Bangalore
+Petrol,Sedan,Automatic,1,Honda,Honda City,2014,7.5,Third Party insurance,48325,18.0,5,White,Bangalore
+Petrol,SUV,Manual,1,Tata,Tata Nexon,2022,12.2,Third Party insurance,30000,17.57,5,Others,Bangalore
+Diesel,Hatchback,Automatic,2,Mercedes-Benz,Mercedes-Benz B Class,2013,13.5,Comprehensive,100000,14.8,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2015,5.75,Comprehensive,69000,22.0,5,White,Bangalore
+Diesel,SUV,Manual,1,Jeep,Jeep Compass,2018,12.5,Third Party insurance,110000,17.1,5,Others,Bangalore
+Petrol,Sedan,Manual,2,Hyundai,Hyundai Verna,2016,8.68,Third Party insurance,50000,17.01,5,Others,Bangalore
+Diesel,MUV,Automatic,1,Kia,Kia Carnival,2020,30.0,Third Party insurance,60000,14.11,8,White,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2021,9.8,Third Party insurance,20000,20.0,5,Others,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Swift,2022,9.0,Third Party,14999,22.56,5,White,Bangalore
+Petrol,Hatchback,Manual,2,Honda,Honda Jazz,2016,5.5,Comprehensive,90773,18.7,5,White,Bangalore
+Diesel,Sedan,Manual,1,Skoda,Skoda Rapid,2012,4.5,Third Party insurance,90000,20.5,5,Gray,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Swift,2017,6.1,Zero Dep,64917,20.4,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Honda,Honda Jazz,2017,5.43,Comprehensive,70235,18.7,5,Brown,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2021,9.8,Third Party insurance,30000,20.0,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Honda,Honda Jazz,2016,5.35,Zero Dep,78782,18.7,5,Brown,Bangalore
+Diesel,SUV,Manual,2,Mahindra,Mahindra XUV500,2014,8.5,Comprehensive,164000,15.1,7,O Purple,Bangalore
+Petrol,Sedan,Manual,2,Maruti,Maruti Ciaz,2016,6.61,Third Party insurance,72136,20.73,5,Silver,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Swift,2015,5.05,Comprehensive,52486,22.38,5,Others,Bangalore
+Diesel,Sedan,Automatic,1,Skoda,Skoda Laura,2007,4.5,Third Party insurance,150000,15.6,5,Black,Bangalore
+Petrol,SUV,Manual,1,Honda,Honda WR-V,2017,8.65,Third Party insurance,36887,17.5,5,Silver,Bangalore
+Petrol,SUV,Manual,1,Hyundai,Hyundai Venue,2019,9.99,Comprehensive,47962,18.27,5,Blue,Bangalore
+Diesel,SUV,Manual,1,Nissan,Nissan Terrano,2014,5.95,Comprehensive,135000,20.45,5,Silver,Bangalore
+Petrol,Sedan,Automatic,2,Skoda,Skoda Superb,2018,23.65,Comprehensive,47398,14.67,5,Brown,Bangalore
+Petrol,Sedan,Manual,2,Fiat,Fiat Linea,2012,4.0,Third Party insurance,50000,14.6,5,Gray,Bangalore
+Diesel,Sedan,Manual,1,Maruti,Maruti Swift Dzire,2012,5.5,Third Party insurance,100000,19.3,5,White,Bangalore
+Diesel,SUV,Automatic,1,BMW,BMW X4,2020,60.5,Comprehensive,55000,14.71,5,White,Bangalore
+Diesel,SUV,Automatic,2,BMW,BMW X3,2011,16.0,Comprehensive,110000,16.55,5,Black,Bangalore
+Petrol,Hatchback,Automatic,3,Volkswagen,Volkswagen Polo,2013,5.2,Third Party insurance,90000,17.21,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Baleno,2016,6.16,Zero Dep,116624,21.4,5,Blue,Bangalore
+Petrol,Sedan,Manual,2,Maruti,Maruti Ciaz,2019,7.95,Zero Dep,54561,21.56,5,Silver,Bangalore
+Diesel,MUV,Manual,2,Toyota,Toyota Innova,2013,12.75,Third Party insurance,120000,12.99,7,Others,Bangalore
+Petrol,Hatchback,Manual,1,Honda,Honda Jazz,2016,6.24,Comprehensive,65072,18.7,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Grand i10,2017,5.49,Zero Dep,133532,18.9,5,Others,Bangalore
+Diesel,MUV,Manual,3,Toyota,Toyota Innova,2010,7.6,Third Party insurance,120000,11.4,7,Others,Bangalore
+Petrol,Sedan,Manual,1,Maruti,Maruti Swift Dzire,2013,5.24,Comprehensive,39886,22.41,5,Orange,Bangalore
+Diesel,SUV,Manual,1,Mahindra,Mahindra XUV500,2019,16.5,Third Party insurance,80000,15.1,7,White,Bangalore
+Diesel,Hatchback,Manual,2,Maruti,Maruti Swift,2015,5.83,Comprehensive,56976,25.2,5,Others,Bangalore
+Petrol,Sedan,Manual,2,Volkswagen,Volkswagen Vento,2020,11.47,Zero Dep,68303,17.69,5,White,Bangalore
+Petrol,Hatchback,Automatic,2,Mini,Mini Cooper,2013,17.5,Third Party insurance,80000,13.6,4,Red,Bangalore
+Diesel,Sedan,Automatic,1,Skoda,Skoda Rapid,2016,8.25,Comprehensive,54000,21.72,5,Grey,Bangalore
+Diesel,SUV,Automatic,1,Land Rover,Land Rover Discovery Sport,2016,31.5,Third Party insurance,98500,12.51,7,White,Bangalore
+Petrol,Hatchback,Manual,1,Volkswagen,Volkswagen Polo,2018,7.55,Third Party insurance,72348,16.2,5,Grey,Bangalore
+Petrol,SUV,Manual,1,Hyundai,Hyundai Creta,2015,8.75,Comprehensive,70000,13.0,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Volkswagen,Volkswagen Polo,2021,8.55,Third Party,62696,17.74,5,White,Bangalore
+Diesel,SUV,Automatic,3,Toyota,Toyota Fortuner,2014,18.45,Comprehensive,174000,12.55,7,White,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Grand i10,2016,5.25,Comprehensive,65000,18.9,5,Orange,Bangalore
+Petrol,Hatchback,Automatic,1,Hyundai,Hyundai Grand i10,2017,6.5,Comprehensive,36000,18.9,5,Silver,Bangalore
+Diesel,MUV,Manual,2,Toyota,Toyota Innova,2011,9.5,Comprehensive,199000,12.8,7,White,Bangalore
+Petrol,Sedan,Automatic,1,Honda,Honda City,2018,8.46,Zero Dep,71905,18.0,5,Brown,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Swift,2013,4.24,Comprehensive,69748,22.38,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Alto,2008,2.1,Comprehensive,44000,19.7,5,Maroon,Bangalore
+Petrol,Sedan,Manual,2,Toyota,Toyota Yaris,2021,9.59,Third Party insurance,17875,17.1,5,Red,Bangalore
+Petrol,SUV,Manual,1,Renault,Renault Duster,2020,8.89,Comprehensive,95678,16.42,5,White,Bangalore
+Petrol,SUV,Automatic,1,Renault,Renault Kiger,2022,8.5,Third Party insurance,12003,19.03,5,Silver,Bangalore
+Diesel,SUV,Manual,2,Ford,Ford Ecosport,2018,8.36,Comprehensive,114427,23.0,5,Red,Bangalore
+Petrol,SUV,Automatic,1,Renault,Renault Kiger,2022,6.6,Third Party insurance,20000,19.03,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Honda,Honda Brio,2012,3.34,Comprehensive,64655,19.4,5,White,Bangalore
+Petrol,SUV,Manual,1,Mahindra,Mahindra KUV 100,2018,5.94,Third Party insurance,46456,18.15,6,Red,Bangalore
+Petrol,SUV,Automatic,1,Renault,Renault Kiger,2021,9.91,Third Party insurance,20000,18.24,5,Others,Bangalore
+Diesel,SUV,Manual,1,Jeep,Jeep Compass,2018,14.5,Third Party insurance,50000,17.1,5,Others,Bangalore
+Diesel,Sedan,Manual,4,Volkswagen,Volkswagen Vento,2011,2.19,Third Party insurance,90000,20.54,5,Others,Bangalore
+Diesel,SUV,Manual,1,Hyundai,Hyundai Venue,2022,12.85,Third Party insurance,20000,18.976466898954705,5,Others,Bangalore
+Petrol,SUV,Automatic,1,Volvo,Volvo XC40,2021,41.95,Comprehensive,27000,18.976466898954705,5,White,Bangalore
+Diesel,MUV,Manual,3,Toyota,Toyota Innova,2008,4.55,Third Party insurance,150000,12.8,8,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Baleno,2022,8.25,Third Party insurance,10000,22.35,5,Others,Bangalore
+Petrol,Sedan,Manual,1,Honda,Honda City,2018,8.25,Third Party insurance,40000,17.4,5,Others,Bangalore
+Diesel,SUV,Manual,1,Ford,Ford Ecosport,2020,9.2,Third Party insurance,40000,23.0,5,Blue,Bangalore
+Diesel,Sedan,Automatic,2,Mercedes-Benz,Mercedes-Benz C-Class,2018,33.0,Third Party insurance,20000,19.27,5,Others,Bangalore
+Diesel,SUV,Manual,2,Ford,Ford Ecosport,2017,7.29,Third Party,91598,22.77,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Celerio,2015,4.32,Comprehensive,57521,25.24,5,Others,Bangalore
+Diesel,SUV,Manual,1,Renault,Renault Duster,2016,7.0,Third Party insurance,100000,19.87,5,Others,Bangalore
+Petrol,Sedan,Manual,1,Hyundai,Hyundai Verna,2021,14.99,Comprehensive,7598,17.7,5,Others,Bangalore
+Petrol,SUV,Manual,1,Renault,Renault Duster,2017,7.62,Comprehensive,38520,13.06,5,Brown,Bangalore
+Petrol,SUV,Manual,1,MG,MG Astor,2022,16.25,Third Party insurance,20000,15.43,5,Others,Bangalore
+Diesel,SUV,Manual,2,Renault,Renault Duster,2014,6.32,Comprehensive,110455,20.45,5,Brown,Bangalore
+Petrol,SUV,Automatic,1,Hyundai,Hyundai Venue,2020,12.18,Comprehensive,26901,18.15,5,Red,Bangalore
+Petrol,Hatchback,Automatic,1,Hyundai,Hyundai Grand i10,2017,5.24,Zero Dep,65376,18.9,5,White,Bangalore
+Diesel,SUV,Manual,3,Mahindra,Mahindra XUV500,2018,14.05,Comprehensive,28177,15.1,7,Red,Bangalore
+Petrol,SUV,Manual,1,Kia,Kia Sonet,2022,13.9,Third Party insurance,10000,18.2,5,Others,Bangalore
+Petrol,SUV,Automatic,1,MG,MG Hector,2021,18.9,Comprehensive,30000,18.976466898954705,5,White,Bangalore
+Petrol,SUV,Automatic,1,Hyundai,Hyundai Creta,2018,12.75,Third Party insurance,27000,13.0,5,White,Bangalore
+Petrol,Hatchback,Automatic,3,Hyundai,Hyundai i10,2010,2.75,Third Party insurance,90000,19.2,5,Others,Bangalore
+Petrol,Sedan,Manual,1,Honda,Honda City,2022,11.25,Third Party insurance,20000,17.4,5,Others,Bangalore
+Petrol,Sedan,Automatic,1,Honda,Honda City,2016,6.5,Comprehensive,82998,18.0,5,Red,Bangalore
+Petrol,Sedan,Automatic,3,Audi,Audi A4,2010,7.0,Third Party insurance,110000,12.3,5,White,Bangalore
+Petrol,Sedan,Manual,1,Honda,Honda City,2019,11.0,Third Party insurance,14500,17.14,5,Grey,Bangalore
+Diesel,Sedan,Manual,3,Mahindra,Mahindra Verito,2016,2.6,Third Party insurance,120000,21.03,5,White,Bangalore
+Petrol,Hatchback,Automatic,2,Hyundai,Hyundai i10,2010,3.95,Comprehensive,68000,19.2,5,Silver,Bangalore
+Petrol,Sedan,Manual,1,Hyundai,Hyundai Xcent,2019,6.81,Third Party insurance,25887,20.14,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti S-Presso,2020,4.05,Comprehensive,74094,21.7,5,Others,Bangalore
+Petrol,Hatchback,Automatic,1,Honda,Honda Jazz,2018,7.65,Comprehensive,40000,19.0,5,White,Bangalore
+Diesel,Hatchback,Manual,1,Maruti,Maruti Ritz,2014,4.87,Third Party,91045,23.2,5,Red,Bangalore
+Diesel,SUV,Manual,1,Mahindra,Mahindra XUV500,2018,14.74,Third Party insurance,80033,15.1,7,White,Bangalore
+Diesel,SUV,Automatic,2,Mahindra,Mahindra XUV500,2017,13.4,Third Party insurance,70000,16.0,7,Others,Bangalore
+Petrol,MUV,Automatic,1,Renault,Renault Triber,2021,7.7,Comprehensive,13957,18.2,7,Blue,Bangalore
+Petrol,Hatchback,Automatic,2,Maruti,Maruti Baleno,2018,8.18,Third Party insurance,34140,21.4,5,Grey,Bangalore
+Petrol,SUV,Manual,1,Ford,Ford Ecosport,2017,7.24,Comprehensive,20056,17.0,5,White,Bangalore
+Petrol,Hatchback,Automatic,3,Maruti,Maruti Celerio,2016,4.68,Comprehensive,38233,26.0,5,Red,Bangalore
+Petrol,Sedan,Manual,1,Volkswagen,Volkswagen Jetta,2013,5.0,Third Party insurance,100000,14.69,5,White,Bangalore
+Diesel,SUV,Manual,2,Ford,Ford Ecosport,2016,6.0,Third Party insurance,50000,22.77,5,Blue,Bangalore
+Diesel,SUV,Manual,2,Mahindra,Mahindra XUV500,2017,13.5,Third Party insurance,70000,16.0,7,Others,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Grand i10,2016,5.25,Comprehensive,44000,18.9,5,Orange,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai Getz,2006,1.75,Third Party insurance,90000,15.3,5,Gray,Bangalore
+Petrol,Sedan,Automatic,1,Maruti,Maruti Ciaz,2016,7.25,Third Party insurance,30000,19.12,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Grand i10,2018,5.5,Third Party insurance,50000,18.9,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2019,6.5,Comprehensive,98000,22.0,5,White,Bangalore
+Petrol,Hatchback,Automatic,1,Honda,Honda Jazz,2017,7.75,Comprehensive,47000,18.2,5,Green,Bangalore
+Petrol,Sedan,Manual,1,Hyundai,Hyundai Verna,2019,9.0,Third Party insurance,70000,17.0,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Alto 800,2020,4.08,Comprehensive,16998,22.05,5,Silver,Bangalore
+Petrol,Hatchback,Automatic,1,Hyundai,Hyundai Grand i10,2017,6.42,Comprehensive,15256,18.9,5,Orange,Bangalore
+Petrol,Sedan,Manual,1,Hyundai,Hyundai Verna,2019,9.0,Third Party insurance,70000,17.0,5,Others,Bangalore
+Petrol,Hatchback,Automatic,1,Datsun,Datsun RediGO,2020,5.21,Comprehensive,4495,22.5,5,Black,Bangalore
+Petrol,MUV,Manual,1,Renault,Renault Triber,2020,6.95,Zero Dep,34561,20.0,7,White,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Alto K10,2018,3.9,Third Party insurance,40000,23.95,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Tata,Tata Tiago,2016,4.29,Comprehensive,142135,23.84,5,Orange,Bangalore
+Petrol,Sedan,Manual,1,Ford,Ford Aspire,2021,5.2,Third Party insurance,120000,18.5,5,White,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Wagon R,2019,6.25,Third Party,9553,20.52,5,Brown,Bangalore
+Petrol,Hatchback,Manual,1,Renault,Renault KWID,2022,6.01,Zero Dep,7600,21.46,5,Blue,Bangalore
+Diesel,SUV,Manual,1,Jeep,Jeep Compass,2017,13.0,Third Party insurance,120000,17.1,5,Others,Bangalore
+Petrol,Hatchback,Automatic,1,Hyundai,Hyundai Grand i10,2017,6.45,Comprehensive,20000,18.9,5,Silver,Bangalore
+Diesel,SUV,Automatic,2,Audi,Audi Q7,2013,19.75,Third Party insurance,120000,12.07,7,Others,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2016,6.95,Third Party insurance,45578,18.6,5,Red,Bangalore
+Petrol,Sedan,Manual,1,Volkswagen,Volkswagen Jetta,2013,5.0,Third Party insurance,100000,14.69,5,White,Bangalore
+Diesel,Sedan,Automatic,2,BMW,BMW 3 Series,2014,16.44,Comprehensive,100000,22.69,5,Blue,Bangalore
+Petrol,SUV,Manual,1,Ford,Ford Ecosport,2019,8.95,Comprehensive,42000,17.0,5,Silver,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai i10,2013,3.5,Third Party insurance,90000,20.36,5,Others,Bangalore
+Diesel,Sedan,Manual,1,Hyundai,Hyundai Verna,2012,5.5,Third Party insurance,70000,22.32,5,Others,Bangalore
+Diesel,SUV,Automatic,3,Ford,Ford Endeavour,2010,7.5,Third Party insurance,100000,11.4,7,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Ignis,2017,5.81,Comprehensive,16306,20.89,5,Blue,Bangalore
+Petrol,Hatchback,Manual,3,Maruti,Maruti Wagon R,2020,5.13,Comprehensive,25086,20.52,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Baleno,2017,6.5,Third Party insurance,54845,21.01,5,Blue,Bangalore
+Diesel,Hatchback,Manual,1,Ford,Ford Freestyle,2020,8.06,Comprehensive,35642,24.4,5,Red,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Baleno,2016,7.25,Third Party,22173,21.4,5,Silver,Bangalore
+Diesel,Sedan,Automatic,1,BMW,BMW 5 Series,2018,49.5,Comprehensive,50000,17.42,5,Blue,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Grand i10,2014,4.26,Third Party,67790,18.9,5,Black,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Alto K10,2019,4.85,Comprehensive,38000,23.95,5,Maroon,Bangalore
+Petrol,Hatchback,Manual,2,Honda,Honda Brio,2012,3.51,Third Party insurance,49713,19.4,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Renault,Renault KWID,2021,4.9,Third Party insurance,10002,21.46,5,Red,Bangalore
+Diesel,SUV,Manual,1,Mahindra,Mahindra XUV500,2017,14.95,Third Party insurance,46706,16.0,7,Grey,Bangalore
+Diesel,Hatchback,Manual,2,Maruti,Maruti Swift,2014,5.1,Third Party insurance,90000,25.2,5,Others,Bangalore
+Diesel,SUV,Automatic,1,BMW,BMW X3,2016,27.5,Comprehensive,106000,18.56,5,White,Bangalore
+Petrol,Hatchback,Automatic,1,Volkswagen,Volkswagen Polo,2017,10.25,Third Party insurance,55833,17.21,5,White,Bangalore
+Diesel,SUV,Automatic,2,Audi,Audi Q3,2015,23.45,Third Party insurance,46716,15.73,5,Red,Bangalore
+Diesel,Sedan,Manual,1,Skoda,Skoda Rapid,2016,8.25,Comprehensive,54000,21.13,5,Grey,Bangalore
+Diesel,SUV,Manual,2,Ford,Ford Ecosport,2016,6.75,Comprehensive,68000,21.7,5,Silver,Bangalore
+Diesel,Hatchback,Manual,3,Ford,Ford Figo,2010,1.9,Comprehensive,113348,20.0,5,Grey,Bangalore
+Diesel,Sedan,Automatic,1,Audi,Audi A6,2014,8.9,Third Party insurance,134000,17.68,5,White,Bangalore
+Petrol,SUV,Automatic,1,Renault,Renault Kiger,2022,8.23,Third Party insurance,20000,19.03,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2014,5.54,Comprehensive,52311,22.38,5,White,Bangalore
+Petrol,Sedan,Manual,1,Maruti,Maruti Swift Dzire,2014,4.99,Comprehensive,59514,22.41,5,Black,Bangalore
+Petrol,SUV,Automatic,1,Renault,Renault Kiger,2022,8.15,Third Party insurance,10000,19.03,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Baleno,2020,7.19,Third Party,36743,21.01,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Celerio,2015,3.72,Third Party,83046,25.24,5,Silver,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Celerio,2018,5.15,Third Party insurance,10000,23.1,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Honda,Honda Jazz,2016,5.54,Third Party insurance,59420,18.7,5,Silver,Bangalore
+Petrol,Sedan,Manual,1,Tata,Tata Tigor,2023,7.0,Comprehensive,4545,20.3,5,Grey,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2011,4.1,Third Party insurance,70404,22.38,5,Silver,Bangalore
+Petrol,Sedan,Manual,1,Maruti,Maruti Ciaz,2016,6.85,Third Party,39725,20.73,5,Silver,Bangalore
+Petrol,Sedan,Automatic,1,BMW,BMW 3 Series,2022,55.0,Third Party insurance,10000,16.13,5,Others,Bangalore
+Diesel,SUV,Automatic,1,Kia,Kia Seltos,2022,18.0,Third Party insurance,10000,17.8,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Wagon R,2006,1.8,Third Party insurance,60000,18.9,5,Others,Bangalore
+Petrol,SUV,Manual,2,Ford,Ford Ecosport,2018,7.65,Third Party insurance,50000,17.0,5,Others,Bangalore
+Petrol,SUV,Manual,1,MG,MG Hector,2023,19.5,Third Party insurance,10000,13.79,5,Others,Bangalore
+Petrol,Sedan,Manual,3,Hyundai,Hyundai Elantra,2013,4.91,Third Party insurance,50000,16.3,5,Others,Bangalore
+Diesel,SUV,Manual,1,Ford,Ford Ecosport,2021,11.75,Third Party insurance,23272,21.7,5,Silver,Bangalore
+Petrol,SUV,Manual,1,Ford,Ford Ecosport,2020,9.99,Comprehensive,8407,15.9,5,Brown,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Swift,2018,7.15,Third Party insurance,50000,21.21,5,Others,Bangalore
+Diesel,Sedan,Automatic,1,Audi,Audi A4,2018,34.0,Third Party insurance,10000,18.25,5,Others,Bangalore
+Petrol,SUV,Automatic,1,Hyundai,Hyundai Creta,2021,17.79,Comprehensive,14881,18.976466898954705,5,Black,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2012,4.04,Third Party insurance,54305,18.5,5,Silver,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai i10,2016,3.58,Third Party insurance,50000,19.81,5,Others,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Ignis,2017,5.81,Comprehensive,64998,20.89,5,Blue,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2015,6.3,Third Party insurance,75940,18.6,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Honda,Honda Jazz,2016,5.6,Third Party insurance,25639,18.7,5,Grey,Bangalore
+Diesel,SUV,Manual,1,Mahindra,Mahindra XUV500,2019,15.51,Third Party insurance,44107,15.1,7,Silver,Bangalore
+Petrol,Sedan,Manual,2,Hyundai,Hyundai Verna,2014,5.25,Third Party insurance,60000,17.01,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Celerio,2018,5.01,Comprehensive,41594,23.1,5,Others,Bangalore
+Petrol,Hatchback,Automatic,2,Maruti,Maruti Wagon R,2020,6.17,Comprehensive,24786,20.52,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Alto K10,2017,3.65,Third Party insurance,56000,23.95,5,Grey,Bangalore
+Petrol,Sedan,Automatic,1,Honda,Honda City,2018,9.95,Comprehensive,90000,18.3,5,White,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai i20,2019,7.75,Comprehensive,31000,18.6,5,Orange,Bangalore
+Diesel,SUV,Automatic,2,Jaguar,Jaguar F-Pace,2018,47.0,Third Party insurance,30000,16.38,5,Silver,Bangalore
+Petrol,Sedan,Manual,1,Hyundai,Hyundai Verna,2017,7.7,Comprehensive,36000,17.7,5,Maroon,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2018,7.25,Third Party insurance,19065,22.0,5,Grey,Bangalore
+Petrol,Hatchback,Automatic,1,Honda,Honda Jazz,2019,8.4,Comprehensive,30538,18.2,5,White,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai i20,2018,7.99,Comprehensive,48891,18.6,5,Red,Bangalore
+Petrol,Hatchback,Automatic,2,Mercedes-Benz,Mercedes-Benz A Class,2014,13.8,Third Party insurance,60000,15.5,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2018,6.96,Third Party,26676,22.0,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2015,5.76,Comprehensive,35647,22.38,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Toyota,Toyota Glanza,2020,7.21,Zero Dep,63825,22.35,5,Red,Bangalore
+Petrol,Sedan,Manual,2,Honda,Honda City,2018,9.95,Third Party insurance,31346,17.4,5,Brown,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai i20,2015,5.94,Third Party insurance,79349,18.6,5,Silver,Bangalore
+Diesel,SUV,Manual,1,Mahindra,Mahindra XUV500,2015,9.27,Comprehensive,88203,15.1,7,Red,Bangalore
+Diesel,SUV,Automatic,1,Audi,Audi Q3,2018,32.75,Comprehensive,37370,15.17,5,Blue,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Wagon R,2015,4.26,Comprehensive,52228,20.51,5,Red,Bangalore
+Diesel,SUV,Automatic,1,Hyundai,Hyundai Creta,2015,11.0,Third Party insurance,70000,17.01,5,Others,Bangalore
+Petrol,SUV,Manual,1,Nissan,Nissan Magnite,2022,9.05,Zero Dep,40542,20.0,5,Silver,Bangalore
+Petrol,SUV,Automatic,1,Renault,Renault Duster,2019,8.48,Comprehensive,47936,14.99,5,Silver,Bangalore
+Diesel,Sedan,Automatic,2,Skoda,Skoda Superb,2008,5.75,Third Party insurance,70000,11.9,5,Others,Bangalore
+Petrol,Sedan,Manual,5,Honda,Honda City,2013,4.0,Third Party insurance,110000,16.8,5,White,Bangalore
+Petrol,SUV,Manual,2,Hyundai,Hyundai Creta,2016,8.95,Comprehensive,45000,15.29,5,White,Bangalore
+Petrol,SUV,Manual,1,Hyundai,Hyundai Venue,2019,10.99,Third Party insurance,20469,18.27,5,Blue,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2011,4.25,Third Party insurance,60000,17.0,5,Others,Bangalore
+Petrol,Sedan,Manual,2,Maruti,Maruti Swift Dzire,2012,4.45,Comprehensive,70000,19.1,5,Blue,Bangalore
+Diesel,Sedan,Manual,4,Skoda,Skoda Rapid,2014,3.2,Third Party insurance,150000,20.5,5,Others,Bangalore
+Petrol,Sedan,Manual,2,Volkswagen,Volkswagen Vento,2017,7.75,Third Party insurance,46258,16.09,5,Grey,Bangalore
+Petrol,Hatchback,Manual,3,Maruti,Maruti Wagon R,2013,3.27,Comprehensive,54242,18.9,5,Silver,Bangalore
+Petrol,Hatchback,Automatic,1,Honda,Honda Jazz,2017,6.61,Comprehensive,90727,19.0,5,Brown,Bangalore
+Diesel,SUV,Manual,1,Mahindra,Mahindra XUV500,2012,7.75,Comprehensive,100000,15.1,7,White,Bangalore
+Petrol,Sedan,Manual,1,Maruti,Maruti Swift Dzire,2017,6.82,Comprehensive,31003,21.21,5,Brown,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Grand i10,2017,5.77,Third Party,24233,18.9,5,Orange,Bangalore
+Petrol,Hatchback,Manual,3,Volkswagen,Volkswagen Polo,2015,5.0,Third Party insurance,90000,16.47,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Honda,Honda Jazz,2017,6.79,Comprehensive,36983,18.7,5,Red,Bangalore
+Diesel,Hatchback,Automatic,1,Mercedes-Benz,Mercedes-Benz B Class,2014,14.45,Comprehensive,68915,14.8,5,Grey,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2021,7.76,Third Party,5440,22.38,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Tata,Tata Tiago,2021,6.9,Zero Dep,8096,20.09,5,Blue,Bangalore
+Diesel,Sedan,Manual,2,Skoda,Skoda Rapid,2012,3.8,Third Party insurance,120000,20.5,5,Others,Bangalore
+Petrol,SUV,Manual,3,Renault,Renault Duster,2014,5.6,Third Party insurance,60000,13.24,5,Others,Bangalore
+Diesel,SUV,Manual,1,Tata,Tata Safari Storme,2017,11.25,Third Party insurance,120000,14.1,7,Others,Bangalore
+Diesel,MUV,Manual,2,Renault,Renault Lodgy,2015,5.15,Comprehensive,125903,19.98,7,Blue,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai i20,2018,7.99,Comprehensive,33040,18.6,5,White,Bangalore
+Diesel,SUV,Manual,2,Toyota,Toyota Fortuner,2009,12.0,Third Party insurance,110000,11.5,7,White,Bangalore
+Diesel,Hatchback,Manual,1,Hyundai,Hyundai i20,2019,8.35,Third Party insurance,30722,22.54,5,White,Bangalore
+Diesel,Sedan,Manual,1,Honda,Honda City,2016,7.5,Third Party insurance,80000,26.0,5,Others,Bangalore
+Diesel,SUV,Manual,2,Toyota,Toyota Fortuner,2009,12.75,Third Party insurance,120000,11.5,7,Others,Bangalore
+Diesel,Sedan,Automatic,2,Mercedes-Benz,Mercedes-Benz E-Class,2017,30.75,Comprehensive,33000,14.21,5,White,Bangalore
+Petrol,Sedan,Manual,1,Honda,Honda City,2014,5.27,Comprehensive,58778,17.4,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti S-Presso,2019,4.26,Comprehensive,51395,21.7,5,Silver,Bangalore
+Petrol,SUV,Automatic,2,Ford,Ford Ecosport,2015,6.25,Comprehensive,100000,14.7,5,White,Bangalore
+Petrol,Sedan,Manual,2,Maruti,Maruti Swift Dzire,2013,4.47,Comprehensive,65881,22.41,5,Black,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Swift,2014,5.52,Comprehensive,49934,22.38,5,White,Bangalore
+Diesel,Sedan,Manual,2,Honda,Honda City,2016,7.95,Comprehensive,91000,26.0,5,White,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Celerio X,2018,4.59,Comprehensive,61576,21.63,5,White,Bangalore
+Petrol,Sedan,Manual,2,Maruti,Maruti Ciaz,2016,7.0,1,114321,20.73,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti S-Presso,2019,4.05,Third Party insurance,53125,21.7,5,White,Bangalore
+Petrol,Hatchback,Automatic,1,Renault,Renault KWID,2020,5.36,Comprehensive,36462,22.0,5,Red,Bangalore
+Diesel,SUV,Automatic,1,Mercedes-Benz,Mercedes-Benz M-Class,2014,24.0,Comprehensive,97542,15.26,5,Blue,Bangalore
+Diesel,SUV,Automatic,1,Mercedes-Benz,Mercedes-Benz GLE,2017,47.45,Comprehensive,89000,11.57,5,White,Bangalore
+Petrol,SUV,Manual,2,Renault,Renault Duster,2018,8.95,Comprehensive,13000,14.99,5,White,Bangalore
+Diesel,Sedan,Manual,1,Hyundai,Hyundai Verna,2018,13.75,Third Party insurance,41000,22.0,5,Black,Bangalore
+Petrol,Hatchback,Automatic,1,Volkswagen,Volkswagen Polo,2017,8.8,Third Party,94471,17.21,5,Red,Bangalore
+Diesel,MUV,Manual,1,Toyota,Toyota Innova,2011,10.3,Comprehensive,58000,12.8,7,Maroon,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Wagon R,2016,4.75,Comprehensive,46000,20.52,5,Brown,Bangalore
+Petrol,SUV,Manual,1,MG,MG Astor,2022,11.5,Third Party insurance,10000,18.976466898954705,5,Black,Bangalore
+Diesel,SUV,Automatic,1,Mercedes-Benz,Mercedes-Benz GLC,2020,56.75,Comprehensive,36531,18.976466898954705,5,White,Bangalore
+Petrol,SUV,Manual,1,Toyota,Toyota Urban cruiser,2021,9.6,Third Party insurance,50000,17.03,5,White,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Celerio,2020,5.32,Third Party,36004,21.63,5,Silver,Bangalore
+Petrol,Sedan,Manual,2,Honda,Honda City,2016,6.51,Comprehensive,58808,17.8,5,White,Bangalore
+Diesel,Sedan,Automatic,1,Mercedes-Benz,Mercedes-Benz C-Class,2017,32.0,Third Party insurance,10000,19.27,5,Blue,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2016,7.15,Comprehensive,31983,18.6,5,Silver,Bangalore
+Diesel,SUV,Manual,1,Maruti,Maruti Vitara Brezza,2016,7.4,Third Party,78536,24.3,5,Maroon,Bangalore
+Diesel,SUV,Manual,1,Kia,Kia Seltos,2022,17.0,Third Party insurance,20000,20.8,5,Others,Bangalore
+Petrol,Sedan,Manual,2,Maruti,Maruti Swift Dzire,2013,4.55,Comprehensive,54134,22.41,5,Black,Bangalore
+Petrol,SUV,Automatic,1,Kia,Kia Seltos,2021,16.99,Third Party insurance,10000,16.8,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai Grand i10,2019,5.24,Comprehensive,27227,18.9,5,Red,Bangalore
+Petrol,SUV,Automatic,1,Jeep,Jeep Compass,2019,17.65,Comprehensive,25508,16.0,5,Grey,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2017,5.25,Third Party insurance,30000,18.6,5,Others,Bangalore
+Petrol,SUV,Automatic,1,Kia,Kia Seltos,2019,16.0,Third Party insurance,20000,16.5,5,Gray,Bangalore
+Diesel,Sedan,Manual,2,Volkswagen,Volkswagen Vento,2012,3.6,Third Party insurance,100000,20.54,5,Blue,Bangalore
+Petrol,SUV,Automatic,1,Mahindra,Mahindra Thar,2021,16.5,Third Party insurance,20000,18.976466898954705,4,Others,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2011,4.1,Third Party insurance,50000,17.0,5,Others,Bangalore
+Diesel,Sedan,Automatic,1,Mercedes-Benz,Mercedes-Benz CLA,2018,31.5,Comprehensive,36000,17.9,5,White,Bangalore
+Diesel,Hatchback,Manual,1,Hyundai,Hyundai i20,2019,8.5,Third Party insurance,40000,22.54,5,Others,Bangalore
+Petrol,SUV,Automatic,1,Hyundai,Hyundai Venue,2021,12.6,Third Party,19047,18.15,5,Red,Bangalore
+Petrol,SUV,Manual,1,Tata,Tata Nexon,2020,8.5,Third Party insurance,50000,17.0,5,Others,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Celerio,2018,4.93,Comprehensive,64453,23.1,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Honda,Honda Brio,2018,5.05,Comprehensive,43387,18.5,5,White,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Baleno,2020,8.25,Third Party insurance,36538,19.56,5,White,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai i20 Active,2017,6.82,Zero Dep,36787,17.19,5,Brown,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Celerio,2018,4.86,Comprehensive,32112,25.24,5,Red,Bangalore
+Petrol,SUV,Manual,1,Hyundai,Hyundai Creta,2022,18.0,Third Party insurance,30000,18.976466898954705,5,Black,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Grand i10,2017,5.4,Comprehensive,53701,18.9,5,Silver,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai Grand i10,2018,5.3,Third Party insurance,30000,18.9,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Alto 800,2020,4.07,Zero Dep,26085,22.05,5,Red,Bangalore
+Petrol,Hatchback,Manual,3,Hyundai,Hyundai Grand i10,2016,4.53,Third Party insurance,46894,18.9,5,Red,Bangalore
+Petrol,SUV,Manual,1,Kia,Kia Sonet,2021,10.1,Third Party insurance,30000,18.2,5,Others,Bangalore
+Petrol,SUV,Automatic,2,Honda,Honda CR-V,2017,16.75,Third Party insurance,53692,12.0,5,White,Bangalore
+Diesel,SUV,Automatic,2,Mahindra,Mahindra XUV500,2018,16.45,Comprehensive,37809,15.1,7,Brown,Bangalore
+Petrol,Hatchback,Automatic,1,Tata,Tata Tiago,2018,6.25,Comprehensive,33000,23.84,5,Brown,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Wagon R,2022,6.35,Comprehensive,30813,20.52,5,White,Bangalore
+Diesel,Sedan,Manual,1,Hyundai,Hyundai Verna,2013,5.5,Comprehensive,56254,23.9,5,Silver,Bangalore
+Diesel,Sedan,Automatic,1,Mercedes-Benz,Mercedes-Benz CLA,2017,24.5,Comprehensive,58000,17.9,5,White,Bangalore
+Petrol,Sedan,Automatic,2,Maruti,Maruti Ciaz,2020,10.25,Third Party insurance,15727,20.04,5,Grey,Bangalore
+Electric,Hatchback,Automatic,1,MG,MG Comet EV,2023,9.5,Third Party insurance,150,18.976466898954705,4,Grey,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2021,9.77,Comprehensive,21113,20.0,5,Red,Bangalore
+Diesel,Sedan,Manual,1,Hyundai,Hyundai Elantra,2021,17.05,Comprehensive,71775,14.59,5,White,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Swift,2018,6.67,Third Party,59882,22.56,5,Silver,Bangalore
+Petrol,Hatchback,Automatic,2,Hyundai,Hyundai Grand i10,2014,4.94,Comprehensive,24463,18.9,5,Silver,Bangalore
+Petrol,Sedan,Manual,1,Honda,Honda City,2015,6.36,Zero Dep,72352,17.4,5,Silver,Bangalore
+Diesel,SUV,Manual,1,Ford,Ford Ecosport,2017,7.92,Comprehensive,90928,23.0,5,Blue,Bangalore
+Petrol,SUV,Manual,2,Nissan,Nissan Magnite,2021,6.95,Third Party insurance,10000,20.0,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Ford,Ford Figo,2014,3.6,Third Party insurance,60000,15.6,5,Others,Bangalore
+Petrol,Minivans,Manual,5,Maruti,Maruti Omni,1998,58.0,Third Party insurance,80000,14.0,5,Other,Bangalore
+Diesel,SUV,Manual,1,Maruti,Maruti Vitara Brezza,2016,8.27,Comprehensive,117530,24.3,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2011,3.82,Comprehensive,102814,22.38,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Tata,Tata Tiago,2021,6.5,Third Party insurance,20000,19.01,5,Blue,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Celerio,2017,5.12,Zero Dep,34801,23.1,5,Blue,Bangalore
+Petrol,Hatchback,Manual,3,Maruti,Maruti Celerio,2018,4.63,Comprehensive,51877,25.24,5,Silver,Bangalore
+Petrol,Sedan,Automatic,1,Hyundai,Hyundai Verna,2023,15.0,Third Party insurance,10000,18.45,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Celerio X,2018,5.25,Third Party,17125,21.63,5,Silver,Bangalore
+Diesel,SUV,Manual,1,Renault,Renault Duster,2014,4.6,Third Party insurance,30000,20.45,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Baleno,2016,6.27,Third Party insurance,50318,21.4,5,Silver,Bangalore
+Petrol,Sedan,Manual,1,Hyundai,Hyundai Verna,2012,5.11,Comprehensive,46123,17.01,5,Silver,Bangalore
+Petrol,Hatchback,Manual,3,Hyundai,Hyundai Getz,2006,55.0,Third Party insurance,120000,15.3,5,Gray,Bangalore
+Diesel,Hatchback,Manual,2,Hyundai,Hyundai i20,2015,6.0,Third Party insurance,70000,22.54,5,Others,Bangalore
+Diesel,Sedan,Automatic,1,Volkswagen,Volkswagen Jetta,2014,12.85,Comprehensive,33360,16.96,5,Blue,Bangalore
+Petrol,SUV,Automatic,1,Volkswagen,Volkswagen Tiguan,2022,31.5,Third Party insurance,21800,12.65,5,Black,Bangalore
+Petrol,Hatchback,Manual,1,Tata,Tata Altroz,2023,7.5,Third Party insurance,10000,19.33,5,Red,Bangalore
+Petrol,Hatchback,Manual,3,Hyundai,Hyundai Santro Xing,2006,1.3,Third Party insurance,60000,18.976466898954705,5,Others,Bangalore
+Electric,SUV,Automatic,1,Tata,Tata Nexon EV Max,2023,18.0,Third Party insurance,10000,18.976466898954705,5,Others,Bangalore
+Petrol,Hatchback,Automatic,1,Hyundai,Hyundai i20,2021,9.85,Third Party insurance,11045,19.65,5,White,Bangalore
+Diesel,Sedan,Automatic,1,Volkswagen,Volkswagen Vento,2018,10.45,Third Party insurance,51406,22.15,5,Blue,Bangalore
+Diesel,Hatchback,Manual,1,Tata,Tata Indica V2,2012,2.0,Third Party insurance,70000,25.0,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Baleno,2017,7.1,Comprehensive,26031,21.4,5,Blue,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2016,5.86,Comprehensive,30740,22.38,5,Silver,Bangalore
+Petrol,SUV,Automatic,1,MG,MG Astor,2022,15.0,Third Party insurance,20000,14.82,5,Others,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Ignis,2017,5.84,Zero Dep,65909,20.89,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2013,4.09,Comprehensive,140590,18.5,5,Blue,Bangalore
+Petrol,MUV,Automatic,2,Toyota,Toyota Innova Crysta,2019,21.75,Third Party insurance,32953,10.75,7,Silver,Bangalore
+Petrol,Sedan,Automatic,1,Maruti,Maruti Swift Dzire,2019,7.38,Comprehensive,51801,21.21,5,Silver,Bangalore
+Diesel,Sedan,Manual,1,Hyundai,Hyundai Xcent,2015,3.8,Third Party insurance,80000,24.4,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2017,6.56,Zero Dep,62621,18.6,5,Blue,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2014,4.83,Comprehensive,79068,22.38,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2018,5.1,Third Party insurance,50000,22.0,5,Others,Bangalore
+Diesel,Sedan,Automatic,2,Volkswagen,Volkswagen Ameo,2018,7.5,Third Party insurance,30000,21.73,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai i10,2008,1.85,Third Party insurance,72000,19.81,5,Gold,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai i10,2008,1.8,Third Party insurance,80000,19.81,5,Others,Bangalore
+Petrol,MUV,Manual,1,Toyota,Toyota Innova Crysta,2021,19.0,Third Party insurance,10000,8.0,8,Others,Bangalore
+Diesel,SUV,Automatic,1,Tata,Tata Harrier,2022,21.0,Third Party insurance,20000,14.6,5,Others,Bangalore
+Diesel,SUV,Automatic,2,Mahindra,Mahindra XUV500,2016,12.45,Comprehensive,36314,16.0,7,Orange,Bangalore
+Petrol,Hatchback,Manual,1,Volkswagen,Volkswagen Polo,2010,3.0,Third Party insurance,67000,16.47,5,Red,Bangalore
+Electric,SUV,Automatic,1,Tata,Tata Nexon EV Prime,2020,13.5,Third Party insurance,30000,18.976466898954705,5,Others,Bangalore
+Electric,SUV,Automatic,1,Tata,Tata Nexon EV Prime,2022,14.5,Comprehensive,21236,18.976466898954705,5,White,Bangalore
+Petrol,Hatchback,Automatic,2,Maruti,Maruti Ignis,2017,5.46,Comprehensive,47488,20.89,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Honda,Honda Jazz,2016,5.33,Comprehensive,56814,18.7,5,Red,Bangalore
+Petrol,Sedan,Automatic,1,Honda,Honda City,2004,1.6,Third Party insurance,90000,14.5,5,Gray,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i10,2012,3.32,Comprehensive,63206,20.36,5,White,Bangalore
+Petrol,Sedan,Manual,2,Maruti,Maruti Ciaz,2018,8.09,Comprehensive,61103,21.56,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Alto,2008,2.0,Third Party insurance,70000,19.7,5,Black,Bangalore
+Petrol,Hatchback,Automatic,3,Maruti,Maruti Celerio,2015,3.47,Comprehensive,112268,23.1,5,White,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Swift,2006,1.5,Third Party insurance,70000,16.1,5,Others,Bangalore
+Petrol,SUV,Manual,1,Volkswagen,Volkswagen Taigun,2021,13.59,Comprehensive,97346,20.08,5,Silver,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai Grand i10,2018,5.43,Comprehensive,36977,18.9,5,Others,Bangalore
+Petrol,Hatchback,Manual,3,Maruti,Maruti Swift,2006,1.5,Third Party insurance,70000,16.1,5,Others,Bangalore
+Diesel,Hatchback,Manual,2,Hyundai,Hyundai i20,2013,4.75,Third Party insurance,60000,21.27,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai Santro,2003,1.1,Third Party insurance,80000,18.976466898954705,5,Others,Bangalore
+Petrol,Hatchback,Automatic,2,Renault,Renault KWID,2016,3.5,Third Party insurance,35000,24.04,5,Silver,Bangalore
+Petrol,Hatchback,Manual,3,Hyundai,Hyundai Getz,2006,1.35,Third Party insurance,100000,15.3,5,Black,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Wagon R,2005,1.7,Third Party insurance,90000,18.9,5,Others,Bangalore
+Diesel,SUV,Automatic,1,BMW,BMW X1,2018,28.5,Comprehensive,85700,20.68,5,White,Bangalore
+Diesel,Sedan,Automatic,1,Mercedes-Benz,Mercedes-Benz C-Class,2016,27.5,Comprehensive,50000,19.27,5,Brown,Bangalore
+Diesel,MUV,Manual,2,Toyota,Toyota Innova,2015,14.49,Third Party insurance,50000,12.99,7,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Alto K10,2015,3.0,Third Party insurance,50000,23.95,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Wagon R,2014,3.77,Third Party,40082,20.51,5,Others,Bangalore
+Diesel,Sedan,Automatic,2,Maruti,Maruti Swift Dzire,2017,6.38,Comprehensive,112566,28.4,5,Silver,Bangalore
+Petrol,SUV,Automatic,1,Hyundai,Hyundai Creta,2020,15.75,Comprehensive,68000,18.976466898954705,5,White,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Wagon R,2021,6.74,Comprehensive,61978,20.52,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Wagon R,2021,6.13,Third Party,27658,20.52,5,White,Bangalore
+Petrol,SUV,Manual,1,Kia,Kia Seltos,2019,11.45,Comprehensive,26000,16.8,5,Silver,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai i20,2015,5.95,Comprehensive,43371,18.6,5,Red,Bangalore
+Diesel,SUV,Manual,2,Ford,Ford Ecosport,2014,4.5,Third Party insurance,120000,22.7,5,Black,Bangalore
+Petrol,Hatchback,Manual,1,Honda,Honda Jazz,2017,5.99,Third Party insurance,67633,18.7,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Baleno,2016,6.25,Third Party insurance,76794,21.4,5,Orange,Bangalore
+Diesel,MUV,Manual,1,Toyota,Toyota Innova,2011,7.5,Third Party insurance,120000,12.8,8,Others,Bangalore
+Diesel,MUV,Automatic,1,Toyota,Toyota Innova Crysta,2018,21.65,Comprehensive,59577,11.36,8,Silver,Bangalore
+Diesel,Sedan,Manual,2,Chevrolet,Chevrolet Cruze,2010,4.45,Third Party insurance,100000,18.3,5,Others,Bangalore
+Petrol,Sedan,Manual,3,Toyota,Toyota Camry,2004,1.2,Third Party insurance,100000,13.4,5,Black,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai i10,2012,3.2,Third Party insurance,50000,20.36,5,Others,Bangalore
+Diesel,SUV,Automatic,1,Kia,Kia Sonet,2022,13.5,Third Party insurance,20000,18.976466898954705,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Alto,2006,1.65,Third Party insurance,120000,19.7,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Fiat,Fiat Punto Abarth,2018,5.25,Third Party insurance,50000,16.3,5,Black,Bangalore
+Diesel,SUV,Manual,1,Hyundai,Hyundai Creta,2015,8.88,Third Party insurance,80000,19.67,5,White,Bangalore
+Diesel,SUV,Manual,2,Mahindra,Mahindra TUV 300,2015,5.75,Comprehensive,80000,18.49,7,Silver,Bangalore
+Diesel,Sedan,Manual,1,Maruti,Maruti Swift Dzire,2017,7.07,Comprehensive,94932,28.4,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Baleno,2016,5.93,Comprehensive,75140,21.4,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Chevrolet,Chevrolet Beat,2011,2.5,Third Party insurance,88000,18.6,5,Blue,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2016,6.85,Comprehensive,73969,18.6,5,Red,Bangalore
+Petrol,Sedan,Manual,1,Hyundai,Hyundai Verna,2016,6.99,Comprehensive,62598,17.01,5,Silver,Bangalore
+Petrol,Sedan,Automatic,2,Toyota,Toyota Corolla Altis,2017,12.0,Third Party insurance,70000,14.28,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Alto 800,2021,4.25,Zero Dep,24343,22.05,5,Silver,Bangalore
+Diesel,Hatchback,Manual,2,Volkswagen,Volkswagen Polo,2014,3.8,Third Party insurance,110000,22.07,5,Silver,Bangalore
+Petrol,Hatchback,Manual,2,Volkswagen,Volkswagen Polo,2017,5.74,Third Party,58917,16.2,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2016,5.73,Comprehensive,72338,22.38,5,Silver,Bangalore
+Diesel,Hatchback,Manual,1,Tata,Tata Indica V2,2003,70.0,Third Party insurance,50000,17.88,5,Others,Bangalore
+Diesel,SUV,Manual,3,Mahindra,Mahindra XUV500,2015,6.85,Third Party insurance,110000,16.0,7,Others,Bangalore
+Petrol,Hatchback,Automatic,2,Honda,Honda Brio,2012,4.25,Comprehensive,41000,18.4,5,Silver,Bangalore
+Petrol,Hatchback,Automatic,2,Hyundai,Hyundai i10,2009,2.65,Third Party insurance,70000,19.2,5,Others,Bangalore
+Petrol,Sedan,Manual,1,Maruti,Maruti Swift Dzire,2019,6.0,Comprehensive,25887,17.5,5,Orange,Bangalore
+Petrol,Sedan,Manual,1,Honda,Honda City,2016,6.5,Third Party insurance,40000,17.8,5,Others,Bangalore
+Diesel,Hatchback,Manual,1,Maruti,Maruti Swift,2015,4.3,Third Party insurance,50000,25.2,5,Others,Bangalore
+Petrol,Minivans,Manual,1,Maruti,Maruti Eeco,2021,5.3,Third Party insurance,10000,16.11,7,Others,Bangalore
+Petrol,Hatchback,Manual,1,Volkswagen,Volkswagen Polo,2022,10.75,Third Party insurance,20000,18.24,5,Others,Bangalore
+Petrol,Sedan,Manual,2,Hyundai,Hyundai Verna,2017,7.5,Third Party insurance,60000,17.0,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai i20,2017,6.15,Third Party,64235,18.6,5,Red,Bangalore
+Diesel,Hatchback,Manual,1,Maruti,Maruti Baleno,2018,7.46,Zero Dep,83873,27.39,5,Silver,Bangalore
+Diesel,Sedan,Manual,2,Skoda,Skoda Rapid,2012,3.7,Third Party insurance,120000,20.5,5,Others,Bangalore
+Petrol,Sedan,Manual,2,Hyundai,Hyundai Verna,2016,6.67,Comprehensive,93059,17.01,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Baleno,2017,6.34,Zero Dep,45681,21.4,5,Blue,Bangalore
+Petrol,Sedan,Manual,3,Maruti,Maruti 1000,1998,40.0,Third Party insurance,50000,15.0,5,White,Bangalore
+Petrol,Hatchback,Manual,2,Honda,Honda Jazz,2017,5.79,Comprehensive,45938,18.7,5,Brown,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Baleno,2018,5.1,Third Party insurance,40000,21.4,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Swift,2018,6.34,Third Party insurance,57423,22.38,5,Blue,Bangalore
+Petrol,Hatchback,Automatic,1,Hyundai,Hyundai Grand i10,2015,5.27,Third Party,60942,18.9,5,Silver,Bangalore
+Petrol,SUV,Automatic,1,Hyundai,Hyundai Creta,2018,9.0,Third Party insurance,70000,13.0,5,Others,Bangalore
+Diesel,SUV,Manual,2,Jeep,Jeep Compass,2018,15.0,Third Party insurance,80000,17.1,5,Others,Bangalore
+Diesel,SUV,Automatic,1,Citroen,Citroen C5 Aircross,2021,30.0,Comprehensive,19875,18.6,5,Black,Bangalore
+Diesel,SUV,Automatic,1,Mahindra,Mahindra XUV700,2022,27.5,Third Party insurance,20000,18.976466898954705,7,Black,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai Grand i10 Nios,2021,6.5,Third Party insurance,10000,20.7,5,Others,Bangalore
+Diesel,MUV,Manual,2,Toyota,Toyota Innova,2012,9.65,Third Party insurance,120000,12.99,7,Others,Bangalore
+Petrol,SUV,Automatic,1,Volkswagen,Volkswagen Tiguan,2022,36.0,Third Party insurance,20000,12.65,5,Black,Bangalore
+Diesel,Sedan,Manual,4,Hyundai,Hyundai Verna,2013,4.0,Third Party insurance,120000,22.32,5,Others,Bangalore
+Petrol,Sedan,Manual,1,Fiat,Fiat Linea,2009,3.0,Third Party insurance,50000,16.0,5,Others,Bangalore
+Diesel,Sedan,Automatic,1,BMW,BMW 3 Series GT,2018,34.0,Third Party insurance,30000,21.76,5,Blue,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2020,9.82,Zero Dep,14949,20.0,5,Red,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Baleno,2017,6.74,Comprehensive,77995,21.4,5,Silver,Bangalore
+Petrol,SUV,Manual,1,Tata,Tata Nexon,2021,8.1,Third Party insurance,20000,17.33,5,Others,Bangalore
+Petrol,Sedan,Manual,1,Maruti,Maruti Ciaz,2020,7.92,Comprehensive,40908,20.65,5,Blue,Bangalore
+Petrol,Hatchback,Automatic,2,Hyundai,Hyundai Grand i10,2016,5.13,Comprehensive,39693,18.9,5,Red,Bangalore
+Petrol,Sedan,Manual,1,Hyundai,Hyundai Verna,2010,3.6,Third Party insurance,40000,16.2,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2016,5.79,Comprehensive,63411,22.38,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2018,5.5,Third Party insurance,30000,22.0,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai Grand i10,2014,3.83,Comprehensive,94221,18.9,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2017,6.05,Third Party insurance,93975,18.6,5,White,Bangalore
+Petrol,SUV,Manual,1,Mahindra,Mahindra XUV300,2019,9.85,Third Party insurance,30000,16.82,5,Red,Bangalore
+Petrol,Hatchback,Manual,2,Volkswagen,Volkswagen Polo,2020,9.35,Third Party,30155,18.24,5,Grey,Bangalore
+Petrol,Hatchback,Manual,2,Volkswagen,Volkswagen Polo,2016,6.75,Third Party insurance,59006,16.47,5,White,Bangalore
+Petrol,Hatchback,Manual,4,Maruti,Maruti Zen,2004,1.35,Third Party insurance,100000,17.3,5,Silver,Bangalore
+Petrol,SUV,Automatic,1,Tata,Tata Nexon,2022,13.45,Third Party,18570,16.35,5,White,Bangalore
+Diesel,MUV,Manual,1,Toyota,Toyota Innova Crysta,2021,23.65,Comprehensive,48246,12.0,7,White,Bangalore
+Diesel,Sedan,Automatic,1,Mercedes-Benz,Mercedes-Benz C-Class,2017,32.0,Third Party insurance,10000,19.27,5,Others,Bangalore
+Diesel,Hatchback,Manual,1,Maruti,Maruti Baleno,2016,7.34,Third Party insurance,61263,27.39,5,Red,Bangalore
+Petrol,SUV,Manual,2,Honda,Honda WR-V,2017,7.01,Third Party,65507,17.5,5,White,Bangalore
+Diesel,SUV,Manual,1,Renault,Renault Duster,2014,5.35,Third Party insurance,100000,20.46,5,Others,Bangalore
+Petrol,SUV,Manual,1,Honda,Honda WR-V,2017,7.89,Comprehensive,26158,17.5,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2015,5.48,Comprehensive,35250,22.38,5,White,Bangalore
+Diesel,SUV,Manual,1,Mahindra,Mahindra Quanto,2012,3.5,Comprehensive,65965,17.21,7,Red,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Celerio,2015,4.77,Comprehensive,40304,25.24,5,Others,Bangalore
+Diesel,SUV,Automatic,1,Land Rover,Land Rover Freelander 2,2013,15.25,Comprehensive,80000,12.35,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2014,5.15,Comprehensive,56661,22.38,5,Silver,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai i20,2016,5.62,Comprehensive,90213,18.6,5,Silver,Bangalore
+Petrol,Sedan,Manual,3,Volkswagen,Volkswagen Vento,2010,3.45,Third Party insurance,70000,15.04,5,Others,Bangalore
+Diesel,Sedan,Manual,4,Hyundai,Hyundai Verna,2013,4.75,Third Party insurance,120000,22.32,5,Others,Bangalore
+Petrol,SUV,Manual,2,Nissan,Nissan Magnite,2021,6.7,Third Party insurance,10000,18.75,5,Others,Bangalore
+Petrol,Hatchback,Automatic,1,Honda,Honda Jazz,2021,9.5,Comprehensive,20739,17.1,5,Brown,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai i20,2020,7.0,Third Party insurance,20000,18.6,5,Others,Bangalore
+Petrol,Sedan,Manual,1,Opel,OpelCorsa,2004,80.0,Third Party insurance,70000,14.2,5,Silver,Bangalore
+Petrol,SUV,Automatic,1,Mahindra,Mahindra Thar,2021,15.0,Third Party insurance,10000,15.2,4,Red,Bangalore
+Diesel,Sedan,Manual,3,Chevrolet,Chevrolet Cruze,2009,3.7,Third Party insurance,60000,18.3,5,White,Bangalore
+Diesel,Sedan,Automatic,1,Mercedes-Benz,Mercedes-Benz C-Class,2017,32.0,Third Party insurance,10000,19.27,5,Others,Bangalore
+Diesel,Hatchback,Manual,1,Hyundai,Hyundai i20,2015,5.5,Third Party insurance,70000,22.54,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai i20,2015,5.81,Comprehensive,47127,18.6,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2017,5.82,Comprehensive,47038,20.4,5,Others,Bangalore
+Petrol,Sedan,Manual,3,Honda,Honda City,2007,1.85,Third Party insurance,120000,17.7,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Grand i10,2018,5.31,Third Party,40769,18.9,5,Blue,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Grand i10,2017,5.58,Comprehensive,34757,18.9,5,Orange,Bangalore
+Petrol,Hatchback,Manual,3,Hyundai,Hyundai Santro Xing,2006,1.55,Third Party insurance,100000,17.0,5,Others,Bangalore
+Petrol,Hatchback,Automatic,2,Hyundai,Hyundai Grand i10,2016,5.08,Comprehensive,88119,18.9,5,Blue,Bangalore
+Diesel,SUV,Automatic,1,Toyota,Toyota Fortuner,2015,20.6,Third Party insurance,120000,12.55,7,Others,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Grand i10,2017,5.42,Third Party,57176,18.9,5,Orange,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Swift,2015,5.01,Comprehensive,62223,22.38,5,Silver,Bangalore
+Petrol,MUV,Manual,1,Maruti,Maruti Ertiga,2018,8.75,Third Party insurance,55000,19.34,7,Grey,Bangalore
+Diesel,SUV,Manual,1,Mahindra,Mahindra Scorpio,2020,13.7,Third Party insurance,52000,18.976466898954705,7,Black,Bangalore
+Petrol,Minivans,Manual,1,Maruti,Maruti Eeco,2018,4.85,Comprehensive,63251,16.11,5,Silver,Bangalore
+Petrol,Hatchback,Manual,3,Hyundai,Hyundai i10,2010,3.0,Third Party insurance,20000,20.36,5,Red,Bangalore
+Diesel,Sedan,Manual,3,Chevrolet,Chevrolet Cruze,2009,3.5,Third Party insurance,60000,18.3,5,White,Bangalore
+Diesel,SUV,Automatic,1,Citroen,Citroen C5 Aircross,2021,32.5,Third Party insurance,20000,18.6,5,Blue,Bangalore
+Petrol,Sedan,Manual,2,Ford,Ford Ikon,2004,55.0,Third Party insurance,80000,14.2,5,Silver,Bangalore
+Petrol,Hatchback,Automatic,1,Hyundai,Hyundai Grand i10,2018,6.3,Third Party insurance,40000,18.9,5,Red,Bangalore
+Diesel,SUV,Automatic,1,Tata,Tata New Safari,2022,24.75,Third Party insurance,20000,14.08,7,Others,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2012,4.17,Third Party insurance,67444,18.5,5,Others,Bangalore
+Petrol,Hatchback,Automatic,2,Maruti,Maruti Baleno,2016,6.31,Comprehensive,63837,21.4,5,Red,Bangalore
+Diesel,MUV,Manual,2,Mahindra,Mahindra Xylo,2012,4.65,Comprehensive,61000,14.0,7,Brown,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2016,5.44,Third Party insurance,60777,22.38,5,Silver,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Baleno,2016,7.04,Third Party insurance,39248,21.4,5,Blue,Bangalore
+Diesel,Sedan,Automatic,1,BMW,BMW 5 Series,2014,19.75,Comprehensive,66000,18.12,5,Grey,Bangalore
+Petrol,Hatchback,Manual,1,Honda,Honda Brio,2015,3.59,Comprehensive,96198,19.4,5,White,Bangalore
+Petrol,Sedan,Automatic,2,Honda,Honda City,2013,5.2,Third Party insurance,50000,16.8,5,Others,Bangalore
+Petrol,Hatchback,Manual,3,Maruti,Maruti Wagon R,2015,3.35,Comprehensive,81207,20.51,5,Brown,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2021,7.66,Third Party,48148,22.38,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Celerio,2015,3.5,Third Party insurance,120000,23.1,5,Others,Bangalore
+Diesel,Sedan,Manual,3,Tata,Tata Zest,2018,4.8,Third Party insurance,90000,20.65,5,White,Bangalore
+Diesel,SUV,Manual,2,Mahindra,Mahindra Thar,2017,8.22,Third Party insurance,60000,18.06,7,Others,Bangalore
+Petrol,Sedan,Manual,4,Fiat,Fiat Linea,2009,1.9,Third Party insurance,120000,16.0,5,Silver,Bangalore
+Petrol,Sedan,Automatic,3,Honda,Honda New Accord,2008,6.0,Third Party insurance,70000,11.7,5,Blue,Bangalore
+Diesel,SUV,Manual,1,Mahindra,Mahindra XUV300,2022,9.95,Third Party insurance,30000,20.1,5,White,Bangalore
+Petrol,Hatchback,Manual,3,Maruti,Maruti Omni,2001,1.2,Third Party insurance,30000,14.0,5,Blue,Bangalore
+Diesel,SUV,Manual,2,Nissan,Nissan Terrano,2013,5.75,Third Party insurance,120000,19.01,5,Others,Bangalore
+Diesel,SUV,Automatic,2,Mercedes-Benz,Mercedes-Benz GLC,2018,37.95,Comprehensive,64389,17.9,5,Silver,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Alto 800,2014,2.6,Third Party insurance,60000,22.74,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2015,5.39,Comprehensive,67245,22.38,5,Silver,Bangalore
+Petrol,Sedan,Automatic,2,Hyundai,Hyundai Verna,2018,10.06,Zero Dep,30518,17.0,5,Silver,Bangalore
+Petrol,Sedan,Automatic,1,Mercedes-Benz,Mercedes-Benz A-Class Limousine,2022,39.0,Third Party insurance,20000,18.976466898954705,5,Others,Bangalore
+Diesel,Sedan,Manual,1,Maruti,Maruti Ciaz,2018,7.96,Third Party,102407,28.09,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2015,6.36,Zero Dep,53606,18.6,5,Red,Bangalore
+Diesel,SUV,Manual,1,Skoda,Skoda Yeti,2015,14.0,Third Party insurance,90000,17.67,5,Brown,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Baleno,2016,6.15,Comprehensive,44253,21.4,5,Blue,Bangalore
+Cng,Minivans,Manual,1,Maruti,Maruti Eeco,2021,5.0,Third Party insurance,40000,20.88,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Tata,Tata Tiago,2021,7.18,Third Party,34702,19.01,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2012,4.36,Third Party,42762,22.38,5,Silver,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Alto K10,2015,2.8,Third Party insurance,50000,23.95,5,Others,Bangalore
+Petrol,MUV,Automatic,1,Renault,Renault Triber,2022,7.8,Third Party insurance,30000,18.2,7,Others,Bangalore
+Diesel,SUV,Automatic,2,Mahindra,Mahindra XUV500,2016,9.0,Third Party insurance,80000,16.0,7,Others,Bangalore
+Cng,MUV,Manual,1,Maruti,Maruti Ertiga,2022,13.0,Third Party insurance,20000,26.11,7,Others,Bangalore
+Cng,Sedan,Manual,2,Maruti,Maruti SX4,2014,3.0,Third Party insurance,50000,22.1,5,Gray,Bangalore
+Petrol,Sedan,Automatic,1,Jaguar,Jaguar XE,2019,36.75,Comprehensive,28000,13.5,5,Black,Bangalore
+Petrol,Sedan,Manual,1,Maruti,Maruti Swift Dzire,2020,6.7,Third Party insurance,40000,21.21,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Baleno,2020,9.0,Third Party insurance,10000,21.01,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Baleno,2016,6.0,Third Party insurance,60000,21.4,5,Others,Bangalore
+Petrol,Hatchback,Manual,4,Chevrolet,Chevrolet Spark,2008,1.1,Third Party insurance,110000,18.0,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2016,6.05,Third Party insurance,57459,18.6,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Grand i10,2017,5.59,Zero Dep,70381,18.9,5,Red,Bangalore
+Diesel,Hatchback,Manual,3,Volkswagen,Volkswagen Polo,2012,2.68,Third Party insurance,90000,22.07,5,Black,Bangalore
+Petrol,Sedan,Manual,1,Maruti,Maruti Ciaz,2020,7.8,Comprehensive,80648,20.65,5,White,Bangalore
+Petrol,SUV,Manual,2,Hyundai,Hyundai Creta,2016,8.64,Comprehensive,81853,13.0,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Santro Xing,2009,2.4,Third Party insurance,40000,17.92,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Honda,Honda Brio,2012,3.41,Comprehensive,90802,19.4,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Santro Xing,2009,2.4,Third Party insurance,40000,17.92,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Santro,2021,5.13,Zero Dep,16502,20.3,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Ignis,2021,6.61,Third Party,31530,20.89,5,Silver,Bangalore
+Diesel,MUV,Manual,2,Maruti,Maruti Ertiga,2017,8.0,Third Party insurance,120000,24.52,7,Others,Bangalore
+Diesel,Hatchback,Manual,2,Maruti,Maruti Swift,2015,5.2,Third Party insurance,80000,25.2,5,Others,Bangalore
+Petrol,Sedan,Automatic,1,Honda,Honda City,2014,6.0,Comprehensive,71086,18.0,5,TITANIUM GREY,Bangalore
+Diesel,Hatchback,Manual,2,Maruti,Maruti Ritz,2011,3.0,Third Party insurance,110000,21.1,5,Others,Bangalore
+Diesel,SUV,Automatic,1,Ford,Ford Endeavour,2020,37.5,Comprehensive,50000,10.91,7,Golden,Bangalore
+Petrol,Hatchback,Automatic,1,Hyundai,Hyundai i20 N Line,2021,12.95,Comprehensive,18000,20.25,5,White,Bangalore
+Petrol,Sedan,Manual,2,Honda,Honda City,2014,6.3,Third Party insurance,60000,17.4,5,Others,Bangalore
+Diesel,MUV,Manual,3,Chevrolet,Chevrolet Tavera,2016,4.75,Third Party insurance,120000,13.58,10,White,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai i10,2011,2.75,Third Party insurance,70000,20.36,5,Others,Bangalore
+Petrol,Hatchback,Automatic,4,Honda,Honda Jazz,2016,5.75,Comprehensive,25000,19.0,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Honda,Honda Brio,2012,3.38,Third Party,69210,19.4,5,Silver,Bangalore
+Petrol,Hatchback,Manual,2,Honda,Honda Jazz,2018,6.04,Comprehensive,71165,18.7,5,Red,Bangalore
+Petrol,SUV,Automatic,1,BMW,BMW X7,2022,1.3,Third Party insurance,10000,10.54,7,Others,Bangalore
+Diesel,Sedan,Manual,3,Maruti,Maruti Swift Dzire,2010,3.27,Third Party insurance,86543,19.3,5,Black,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Baleno,2016,6.21,Third Party,67225,21.4,5,Others,Bangalore
+Diesel,Hatchback,Manual,3,Tata,Tata Indica V2,2017,2.4,Third Party insurance,100000,25.0,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Grand i10,2018,6.21,Zero Dep,16247,18.9,5,Silver,Bangalore
+Petrol,Sedan,Manual,2,Mahindra Renault,Mahindra Renault Logan,2007,1.4,Third Party insurance,80000,15.7,5,Black,Bangalore
+Petrol,Hatchback,Automatic,2,Maruti,Maruti Baleno,2017,7.08,Zero Dep,39481,21.4,5,White,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Celerio,2018,4.43,Third Party,61227,25.24,5,Blue,Bangalore
+Petrol,Sedan,Manual,4,Honda,Honda City,2006,1.8,Third Party insurance,80000,17.7,5,Black,Bangalore
+Diesel,SUV,Manual,1,Renault,Renault Duster,2016,7.0,Comprehensive,112521,19.01,5,Brown,Bangalore
+Diesel,SUV,Manual,1,MG,MG Hector,2020,18.0,Third Party insurance,20000,17.41,5,Others,Bangalore
+Petrol,Sedan,Automatic,1,Honda,Honda City,2021,14.5,Third Party insurance,20000,18.3,5,White,Bangalore
+Petrol,Sedan,Manual,2,Volkswagen,Volkswagen Ameo,2016,5.2,Third Party insurance,60000,17.0,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Tata,Tata Tiago,2018,4.7,Third Party insurance,40000,23.84,5,Others,Bangalore
+Diesel,SUV,Manual,1,Renault,Renault Duster,2016,6.0,Third Party insurance,50000,19.64,5,Black,Bangalore
+Diesel,SUV,Automatic,2,Audi,Audi Q3,2016,18.5,Third Party insurance,100000,15.17,5,Others,Bangalore
+Electric,Hatchback,Automatic,2,Mahindra,Mahindra e2o Plus,2017,4.6,Third Party insurance,20000,140.0,4,Blue,Bangalore
+Petrol,Sedan,Manual,2,Opel,OpelCorsa,2003,75.0,Third Party insurance,110000,13.8,5,Silver,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Baleno,2017,6.49,Third Party,63359,21.4,5,Blue,Bangalore
+Diesel,Hatchback,Manual,2,Hyundai,Hyundai i20,2017,6.57,Zero Dep,125227,22.54,5,Red,Bangalore
+Diesel,Hatchback,Manual,2,Volkswagen,Volkswagen Polo,2012,4.2,Third Party insurance,100000,22.07,5,Others,Bangalore
+Diesel,Hatchback,Manual,2,Maruti,Maruti Swift,2015,6.29,Third Party insurance,71884,25.2,5,Silver,Bangalore
+Petrol,Hatchback,Manual,2,Honda,Honda Brio,2012,3.22,Third Party insurance,79059,19.4,5,Brown,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Baleno,2016,6.2,Third Party insurance,80000,21.4,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2013,4.35,Third Party,69124,22.38,5,Silver,Bangalore
+Diesel,MUV,Manual,4,Toyota,Toyota Innova,2012,9.6,Third Party insurance,120000,12.99,8,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Ritz,2010,3.17,Comprehensive,73340,18.5,5,Blue,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai Grand i10,2017,5.74,Comprehensive,44268,18.9,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Citroen,Citroen C3,2022,7.8,Third Party insurance,10000,19.3,5,Gray,Bangalore
+Petrol,Hatchback,Manual,1,Honda,Honda Jazz,2018,8.0,Third Party insurance,60000,18.7,5,Others,Bangalore
+Petrol,Sedan,Manual,1,Honda,Honda City,2020,9.25,Third Party insurance,30000,18.6,5,Others,Bangalore
+Petrol,Sedan,Manual,1,Maruti,Maruti Ciaz,2017,7.75,Third Party insurance,50000,20.73,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Tata,Tata Nano,2011,70.0,Third Party insurance,80000,26.0,4,Other,Bangalore
+Diesel,SUV,Manual,2,Renault,Renault Duster,2014,5.0,Third Party insurance,70000,19.01,5,Others,Bangalore
+Diesel,Sedan,Manual,2,Maruti,Maruti Swift Dzire,2009,3.5,Third Party insurance,120000,19.3,5,Others,Bangalore
+Diesel,MUV,Manual,2,Toyota,Toyota Innova,2012,11.25,Third Party insurance,120000,12.99,7,Others,Bangalore
+Petrol,Sedan,Automatic,2,Honda,Honda Amaze,2020,8.3,Third Party insurance,20000,18.3,5,Others,Bangalore
+Diesel,SUV,Automatic,1,Kia,Kia Seltos,2020,14.75,Third Party,37354,17.8,5,Orange,Bangalore
+Diesel,SUV,Manual,2,Mahindra,Mahindra XUV500,2014,8.34,Comprehensive,80426,15.1,7,Others,Bangalore
+Petrol,Sedan,Manual,1,Maruti,Maruti Ciaz,2016,6.74,Comprehensive,89801,20.73,5,Silver,Bangalore
+Petrol,Sedan,Manual,4,Opel,OpelCorsa,2004,65.0,Third Party insurance,120000,14.2,5,Black,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai Grand i10,2019,5.47,Zero Dep,69199,18.9,5,Red,Bangalore
+Petrol,Hatchback,Manual,3,Maruti,Maruti Swift,2012,4.13,Third Party insurance,78249,22.38,5,Red,Bangalore
+Diesel,MUV,Manual,1,Toyota,Toyota Innova Crysta,2018,23.25,Comprehensive,26918,13.68,8,Golden,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2021,7.09,Zero Dep,29905,22.38,5,Others,Bangalore
+Diesel,MUV,Automatic,2,Toyota,Toyota Innova Crysta,2018,22.95,Comprehensive,37678,11.36,7,White,Bangalore
+Petrol,Hatchback,Manual,2,Honda,Honda Jazz,2017,5.28,Comprehensive,60442,18.7,5,Brown,Bangalore
+Diesel,SUV,Manual,1,Renault,Renault Duster,2014,6.91,Comprehensive,66463,20.45,5,Black,Bangalore
+Petrol,Sedan,Automatic,1,Skoda,Skoda Rapid,2020,11.45,Comprehensive,40844,16.24,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Volkswagen,Volkswagen Polo,2021,8.55,Third Party,62696,18.976466898954705,5,White,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Swift,2021,8.0,Third Party insurance,30000,21.21,5,Others,Bangalore
+Petrol,Sedan,Manual,1,Ford,Ford Aspire,2017,5.5,Comprehensive,44000,18.16,5,Grey,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai i20,2012,4.0,Third Party insurance,70000,18.5,5,Others,Bangalore
+Diesel,Hatchback,Manual,1,Tata,Tata Indica V2,2012,1.3,Third Party insurance,120000,25.0,5,Silver,Bangalore
+Diesel,Sedan,Manual,4,Hyundai,Hyundai Verna,2012,3.75,Third Party insurance,120000,22.32,5,Black,Bangalore
+Petrol,Sedan,Manual,1,Maruti,Maruti Swift Dzire,2020,6.5,Third Party insurance,40000,21.21,5,Others,Bangalore
+Petrol,SUV,Automatic,1,Jeep,Jeep Compass,2021,25.5,Third Party insurance,10000,14.1,5,Others,Bangalore
+Diesel,SUV,Manual,1,Kia,Kia Sonet,2021,13.0,Third Party insurance,80000,18.976466898954705,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Baleno,2016,6.09,Zero Dep,79415,21.4,5,Blue,Bangalore
+Diesel,Sedan,Automatic,1,Maruti,Maruti Swift Dzire,2017,6.78,Zero Dep,88411,26.59,5,Red,Bangalore
+Diesel,Sedan,Manual,4,Volkswagen,Volkswagen Vento,2011,3.75,Third Party insurance,120000,20.54,5,Others,Bangalore
+Diesel,Hatchback,Manual,1,Maruti,Maruti Swift,2012,4.49,Third Party,106516,22.9,5,Others,Bangalore
+Diesel,Hatchback,Manual,2,Maruti,Maruti Swift,2015,5.52,Comprehensive,88509,25.2,5,Red,Bangalore
+Diesel,SUV,Manual,1,Mahindra,Mahindra XUV500,2015,9.25,Third Party insurance,120000,15.1,7,Silver,Bangalore
+Petrol,Sedan,Manual,2,Ford,Ford Ikon,2004,56.0,Third Party insurance,80000,14.2,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2013,4.26,Comprehensive,44437,22.38,5,Others,Bangalore
+Diesel,Hatchback,Manual,2,Hyundai,Hyundai i20,2015,6.07,Third Party insurance,83731,22.54,5,Others,Bangalore
+Petrol,Sedan,Manual,2,Ford,Ford Ikon,2004,56.0,Third Party insurance,80000,14.2,5,Silver,Bangalore
+Diesel,SUV,Manual,1,Mahindra,Mahindra Bolero Power Plus,2018,8.45,Comprehensive,77000,16.5,7,White,Bangalore
+Petrol,SUV,Automatic,2,MG,MG Hector,2020,16.5,Comprehensive,23000,18.976466898954705,5,Black,Bangalore
+Diesel,Hatchback,Manual,3,Ford,Ford Figo,2012,2.4,Third Party insurance,110000,20.0,5,Others,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Wagon R,2022,6.8,Third Party insurance,30000,20.52,5,Others,Bangalore
+Diesel,MUV,Manual,2,Toyota,Toyota Innova,2006,5.0,Third Party insurance,120000,12.8,7,Others,Bangalore
+Petrol,Sedan,Manual,2,Tata,Tata Manza,2011,2.5,Third Party insurance,60000,13.7,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Baleno,2018,7.2,Third Party insurance,80000,21.4,5,Others,Bangalore
+Petrol,Hatchback,Manual,4,Tata,Tata Nano,2011,60.0,Third Party insurance,110000,26.0,4,Others,Bangalore
+Petrol,Sedan,Automatic,5,Skoda,Skoda Superb,2010,3.57,Third Party insurance,70000,12.6,5,Others,Bangalore
+Petrol,Sedan,Manual,1,Maruti,Maruti Ciaz,2018,7.98,Third Party insurance,45621,21.56,5,Silver,Bangalore
+Diesel,SUV,Manual,2,Renault,Renault Captur,2018,8.58,Zero Dep,38199,20.37,5,Brown,Bangalore
+Petrol,Sedan,Manual,3,Maruti,Maruti Esteem,2004,80.0,Third Party insurance,90000,15.9,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2016,6.08,Zero Dep,91660,18.6,5,White,Bangalore
+Petrol,Sedan,Manual,2,Honda,Honda City,2015,6.98,Comprehensive,51947,17.4,5,White,Bangalore
+Diesel,MUV,Manual,2,Tata,Tata Hexa,2018,12.5,Third Party insurance,80000,17.6,7,Others,Bangalore
+Diesel,SUV,Manual,2,Maruti,Maruti SX4 S Cross,2016,7.51,Third Party insurance,76836,23.65,5,Silver,Bangalore
+Petrol,Hatchback,Automatic,2,Honda,Honda Brio,2015,5.35,Comprehensive,27000,16.5,5,White,Bangalore
+Petrol,Sedan,Automatic,1,Hyundai,Hyundai Verna,2017,10.35,Zero Dep,33222,17.0,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i10,2013,3.28,Comprehensive,47333,19.81,5,Red,Bangalore
+Petrol,Hatchback,Automatic,1,Hyundai,Hyundai Grand i10 Nios,2021,7.25,Third Party insurance,20000,20.7,5,Others,Bangalore
+Petrol,Sedan,Manual,1,Hyundai,Hyundai Verna,2017,7.4,Comprehensive,46000,17.01,5,Maroon,Bangalore
+Diesel,MUV,Manual,1,Toyota,Toyota Innova,2012,8.75,Third Party insurance,68000,12.99,7,Silver,Bangalore
+Petrol,Hatchback,Manual,2,Nissan,Nissan Micra Active,2015,4.8,Third Party insurance,40000,19.69,5,Green,Bangalore
+Diesel,Sedan,Manual,2,Mitsubishi,Mitsubishi Lancer,2001,76.0,Third Party insurance,90000,14.8,5,Silver,Bangalore
+Petrol,Sedan,Manual,1,Ford,Ford Fiesta,2010,1.9,Third Party insurance,80000,15.3,5,Black,Bangalore
+Petrol,Hatchback,Manual,4,Hyundai,Hyundai i10,2010,2.1,Third Party insurance,90000,19.81,5,Others,Bangalore
+Diesel,Hatchback,Manual,1,Maruti,Maruti Swift,2014,4.8,Third Party insurance,80000,25.2,5,Others,Bangalore
+Diesel,Sedan,Manual,2,Hyundai,Hyundai Verna,2012,3.8,Third Party insurance,150000,22.32,5,Others,Bangalore
+Petrol,SUV,Manual,1,Tata,Tata Nexon,2022,12.8,Third Party insurance,20000,17.57,5,Others,Bangalore
+Petrol,SUV,Automatic,1,Ford,Ford Ecosport,2016,7.7,Comprehensive,43791,15.63,5,Black,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Swift,2018,5.99,Third Party insurance,87660,22.56,5,Red,Bangalore
+Diesel,SUV,Automatic,5,Mahindra,Mahindra XUV500,2016,8.0,Third Party insurance,90000,16.0,7,Others,Bangalore
+Petrol,Hatchback,Manual,3,Hyundai,Hyundai Santro Xing,2011,2.32,Comprehensive,71938,17.92,5,Others,Bangalore
+Petrol,Sedan,Manual,2,Hyundai,Hyundai Verna,2013,5.25,Comprehensive,104938,17.01,5,Silver,Bangalore
+Petrol,Sedan,Manual,1,Honda,Honda City,2020,9.5,Third Party insurance,30000,17.4,5,Others,Bangalore
+Petrol,Sedan,Manual,2,Skoda,Skoda Rapid,2017,6.35,Third Party insurance,124707,15.41,5,White,Bangalore
+Diesel,Hatchback,Manual,2,Volkswagen,Volkswagen Polo,2012,4.0,Third Party insurance,70000,22.07,5,Others,Bangalore
+Petrol,SUV,Manual,1,Hyundai,Hyundai Creta,2017,9.66,Comprehensive,88556,13.0,5,Silver,Bangalore
+Diesel,SUV,Manual,1,Ford,Ford Ecosport,2017,7.81,Comprehensive,48743,22.77,5,Orange,Bangalore
+Diesel,SUV,Automatic,2,BMW,BMW X3,2016,28.0,Third Party insurance,100000,18.56,5,Others,Bangalore
+Petrol,Sedan,Manual,2,Skoda,Skoda Superb,2012,3.85,Third Party insurance,100000,13.7,5,Others,Bangalore
+Diesel,SUV,Manual,4,Mahindra,Mahindra XUV500,2012,6.0,Third Party insurance,120000,15.1,7,Others,Bangalore
+Diesel,SUV,Manual,2,Mahindra,Mahindra TUV 300,2016,6.0,Third Party insurance,70000,18.49,7,Others,Bangalore
+Petrol,Sedan,Manual,2,Skoda,Skoda Superb,2012,3.65,Third Party insurance,90000,13.7,5,Others,Bangalore
+Diesel,Pickup Trucks,Manual,1,Mahindra,Mahindra Bolero Camper,2019,7.49,Third Party insurance,70000,18.976466898954705,5,Others,Bangalore
+Diesel,Hatchback,Manual,1,Fiat,Fiat Punto,2014,3.5,Third Party insurance,120000,20.3,5,Others,Bangalore
+Petrol,SUV,Automatic,1,Hyundai,Hyundai Alcazar,2022,23.5,Third Party insurance,20000,14.2,6,Gray,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2020,7.0,Third Party insurance,20000,18.6,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai EON,2012,2.3,Third Party insurance,50000,21.1,5,Others,Bangalore
+Petrol,SUV,Manual,1,Honda,Honda WR-V,2018,8.75,Comprehensive,51338,17.5,5,Red,Bangalore
+Petrol,SUV,Manual,1,Hyundai,Hyundai Creta,2017,9.25,Comprehensive,97334,15.29,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2020,7.0,Third Party insurance,20000,18.6,5,Others,Bangalore
+Petrol,SUV,Manual,2,Hyundai,Hyundai Creta,2016,9.3,Comprehensive,53031,13.0,5,Red,Bangalore
+Petrol,SUV,Manual,2,Hyundai,Hyundai Creta,2016,8.98,Comprehensive,51580,13.0,5,Red,Bangalore
+Diesel,Sedan,Automatic,2,Mercedes-Benz,Mercedes-Benz CLA,2017,23.95,Comprehensive,57000,17.9,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti S-Presso,2020,4.49,Third Party insurance,23920,21.7,5,Red,Bangalore
+Diesel,SUV,Automatic,1,Hyundai,Hyundai Creta,2018,14.85,Comprehensive,65000,17.01,5,White,Bangalore
+Petrol,Hatchback,Manual,2,Honda,Honda Brio,2012,3.35,Comprehensive,66434,19.4,5,Others,Bangalore
+Petrol,SUV,Manual,1,Honda,Honda WR-V,2017,8.25,Comprehensive,54097,17.5,5,White,Bangalore
+Petrol,Hatchback,Automatic,1,Toyota,Toyota Glanza,2021,9.35,Third Party,27655,19.56,5,White,Bangalore
+Diesel,Sedan,Automatic,1,BMW,BMW 3 Series GT,2018,38.25,Third Party insurance,14955,21.76,5,Blue,Bangalore
+Petrol,SUV,Automatic,1,Hyundai,Hyundai Alcazar,2022,23.5,Third Party insurance,10000,14.2,7,Gray,Bangalore
+Petrol,SUV,Automatic,1,Volkswagen,Volkswagen T-Roc,2020,25.0,Third Party insurance,50000,18.4,5,Black,Bangalore
+Petrol,SUV,Manual,1,Kia,Kia Seltos,2022,15.4,Third Party insurance,10000,16.8,5,Others,Bangalore
+Diesel,SUV,Automatic,2,Hyundai,Hyundai Creta,2019,12.9,Third Party insurance,70000,17.6,5,Others,Bangalore
+Diesel,Sedan,Manual,3,Hyundai,Hyundai Elantra,2007,50.0,Third Party insurance,150000,14.9,5,Gray,Bangalore
+Petrol,SUV,Manual,2,Kia,Kia Sonet,2021,10.25,Third Party insurance,10000,18.2,5,White,Bangalore
+Diesel,Sedan,Manual,3,Honda,Honda City,2016,6.0,Third Party insurance,110000,26.0,5,Others,Bangalore
+Petrol,Minivans,Manual,1,Maruti,Maruti Eeco,2020,4.35,Third Party insurance,30000,16.11,7,Others,Bangalore
+Petrol,SUV,Manual,2,Honda,Honda WR-V,2017,8.08,Third Party insurance,14338,17.5,5,Brown,Bangalore
+Petrol,Minivans,Manual,1,Maruti,Maruti Eeco,2020,4.35,Third Party insurance,30000,16.11,7,Others,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Wagon R,2011,2.78,Comprehensive,73799,18.9,5,Blue,Bangalore
+Petrol,SUV,Automatic,1,Mahindra,Mahindra XUV300,2021,12.61,Comprehensive,39139,16.5,5,White,Bangalore
+Petrol,SUV,Manual,1,Hyundai,Hyundai Venue,2020,8.5,Third Party insurance,20000,17.52,5,Gray,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai EON,2014,2.7,Third Party,89633,21.1,5,White,Bangalore
+Diesel,SUV,Automatic,3,BMW,BMW X1,2011,10.0,Third Party insurance,70000,17.05,5,Others,Bangalore
+Petrol,MUV,Manual,2,Maruti,Maruti Ertiga,2017,8.45,Comprehensive,16826,20.51,7,Silver,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Ignis,2017,5.08,Third Party insurance,25133,20.89,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Alto 800,2018,3.4,Third Party insurance,80000,24.7,5,Others,Bangalore
+Petrol,SUV,Automatic,1,Volvo,Volvo XC40,2020,39.0,Comprehensive,25000,18.976466898954705,5,Red,Bangalore
+Diesel,MUV,Manual,1,Toyota,Toyota Innova,2014,12.25,Third Party insurance,90000,12.99,8,Others,Bangalore
+Diesel,MUV,Manual,1,Toyota,Toyota Innova,2014,12.75,Third Party insurance,90000,12.99,8,Others,Bangalore
+Petrol,SUV,Automatic,1,Jeep,Jeep Compass,2022,29.0,Third Party insurance,10000,14.1,5,Others,Bangalore
+Petrol,SUV,Manual,2,Mahindra,Mahindra XUV300,2019,8.0,Third Party insurance,70000,17.0,5,Others,Bangalore
+Diesel,Sedan,Automatic,1,Mercedes-Benz,Mercedes-Benz E-Class,2016,28.0,Third Party insurance,110000,13.0,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai Santro Xing,2006,1.5,Third Party insurance,20000,18.976466898954705,5,Others,Bangalore
+Petrol,SUV,Manual,1,Nissan,Nissan Magnite,2021,6.38,Third Party insurance,10000,18.75,5,Brown,Bangalore
+Petrol,Hatchback,Manual,2,Datsun,Datsun RediGO,2019,3.15,Third Party insurance,20000,22.7,5,Others,Bangalore
+Diesel,SUV,Manual,1,Kia,Kia Sonet,2020,13.28,Comprehensive,34990,18.976466898954705,5,Black,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Celerio,2016,4.9,Comprehensive,33210,23.1,5,White,Bangalore
+Diesel,Sedan,Manual,2,Hyundai,Hyundai Verna,2020,10.5,Third Party insurance,80000,22.0,5,Others,Bangalore
+Petrol,Hatchback,Automatic,2,Maruti,Maruti Celerio,2015,4.3,Comprehensive,28051,26.68,5,Blue,Bangalore
+Petrol,MUV,Automatic,1,Kia,Kia Carens,2022,17.24,Comprehensive,22280,16.5,6,Black,Bangalore
+Diesel,Hatchback,Manual,2,Maruti,Maruti Swift,2007,2.7,Third Party insurance,120000,17.8,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Grand i10,2017,5.17,Comprehensive,21193,18.9,5,Blue,Bangalore
+Petrol,Sedan,Automatic,2,Skoda,Skoda Superb,2010,4.0,Third Party insurance,120000,12.0,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Grand i10 Nios,2021,6.27,Third Party,7150,20.7,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Tata,Tata Tiago,2016,5.1,Third Party,13262,23.84,5,Orange,Bangalore
+Diesel,Sedan,Manual,3,Chevrolet,Chevrolet Cruze,2012,2.5,Third Party insurance,100000,17.3,5,Others,Bangalore
+Diesel,SUV,Automatic,4,BMW,BMW X3,2012,16.0,Third Party insurance,100000,16.09,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Baleno,2016,5.75,Third Party insurance,100000,21.4,5,Others,Bangalore
+Diesel,MUV,Manual,1,Chevrolet,Chevrolet Enjoy,2014,4.1,Third Party insurance,90000,18.2,7,Others,Bangalore
+Petrol,SUV,Automatic,2,Tata,Tata Nexon,2018,9.25,Third Party insurance,40000,17.0,5,Others,Bangalore
+Diesel,Hatchback,Manual,2,Hyundai,Hyundai i20,2013,4.75,Third Party insurance,50000,21.9,5,Others,Bangalore
+Petrol,Hatchback,Manual,3,Tata,Tata Nano,2015,1.85,Third Party insurance,50000,25.4,4,Violet,Bangalore
+Petrol,Hatchback,Manual,3,Hyundai,Hyundai Santro Xing,2008,2.25,Third Party insurance,50000,17.92,5,Red,Bangalore
+Petrol,SUV,Automatic,1,Volkswagen,Volkswagen Tiguan Allspace,2021,32.75,Comprehensive,21000,17.01,7,Blue,Bangalore
+Diesel,SUV,Automatic,1,Volvo,Volvo XC40,2019,37.5,Comprehensive,38000,18.0,5,Red,Bangalore
+Petrol,MUV,Manual,1,Renault,Renault Triber,2019,5.14,Third Party,61902,20.0,7,Orange,Bangalore
+Petrol,Hatchback,Automatic,1,Datsun,Datsun RediGO,2018,3.47,Comprehensive,38396,23.0,5,White,Bangalore
+Petrol,Sedan,Manual,3,Honda,Honda City,2004,1.0,Third Party insurance,30000,12.8,5,Silver,Bangalore
+Petrol,SUV,Manual,1,Kia,Kia Sonet,2022,13.29,Comprehensive,7561,18.2,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai EON,2017,3.0,Third Party insurance,30000,21.1,5,Others,Bangalore
+Petrol,Sedan,Manual,1,Skoda,Skoda Slavia,2022,13.58,Third Party,6731,19.47,5,Black,Bangalore
+Petrol,SUV,Manual,1,Jeep,Jeep Compass,2019,15.0,Third Party insurance,20000,16.0,5,Gray,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Swift,2018,6.42,Third Party,55567,21.21,5,Silver,Bangalore
+Petrol,SUV,Automatic,2,Renault,Renault Kiger,2021,9.11,Third Party insurance,48938,18.24,5,Silver,Bangalore
+Diesel,Hatchback,Manual,2,Maruti,Maruti Swift,2017,5.5,Third Party insurance,80000,28.4,5,Others,Bangalore
+Diesel,SUV,Manual,1,Renault,Renault Duster,2013,4.2,Third Party insurance,80000,19.01,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Ford,Ford Figo,2010,4.5,Third Party insurance,10000,15.6,5,Others,Bangalore
+Petrol,SUV,Manual,1,Kia,Kia Seltos,2022,15.65,Third Party insurance,10000,16.8,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Tata,Tata Tiago,2016,4.5,Third Party insurance,60000,23.84,5,Others,Bangalore
+Petrol,Sedan,Automatic,1,Ford,Ford Aspire,2015,4.6,Comprehensive,71545,17.01,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Santro Xing,2007,2.0,Third Party insurance,60000,18.976466898954705,5,Silver,Bangalore
+Diesel,SUV,Automatic,2,Mahindra,Mahindra TUV 300,2016,6.79,Third Party insurance,80000,18.49,7,Others,Bangalore
+Cng,Minivans,Manual,5,Maruti,Maruti Omni,2015,2.3,Third Party insurance,120000,10.9,8,White,Bangalore
+Petrol,SUV,Manual,1,Kia,Kia Seltos,2020,12.0,Third Party insurance,60000,16.8,5,Others,Bangalore
+Petrol,Hatchback,Automatic,1,Hyundai,Hyundai Grand i10,2016,5.43,Comprehensive,56577,18.9,5,Blue,Bangalore
+Petrol,SUV,Automatic,2,Hyundai,Hyundai Creta,2018,10.35,Comprehensive,56974,13.0,5,White,Bangalore
+Petrol,SUV,Manual,1,Hyundai,Hyundai Venue,2021,11.5,Third Party insurance,10000,18.0,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2013,4.79,Comprehensive,40344,18.5,5,Silver,Bangalore
+Diesel,SUV,Manual,3,Ford,Ford Ecosport,2018,7.36,Comprehensive,36216,23.0,5,Black,Bangalore
+Petrol,Hatchback,Automatic,1,Renault,Renault KWID,2022,5.3,Third Party insurance,10000,22.0,5,Others,Bangalore
+Petrol,SUV,Manual,2,Hyundai,Hyundai Creta,2017,8.8,Comprehensive,45965,15.29,5,White,Bangalore
+Petrol,MUV,Automatic,1,Toyota,Toyota Innova Crysta,2021,26.0,Third Party insurance,10000,8.0,7,Others,Bangalore
+Petrol,Sedan,Automatic,1,Honda,Honda City,2016,7.89,Comprehensive,74982,18.0,5,Brown,Bangalore
+Petrol,SUV,Automatic,1,Tata,Tata Nexon,2020,10.3,Comprehensive,21925,17.0,5,Silver,Bangalore
+Diesel,Sedan,Automatic,1,Skoda,Skoda Rapid,2015,6.0,Third Party insurance,120000,21.66,5,Silver,Bangalore
+Petrol,Sedan,Manual,2,Honda,Honda City,2010,2.5,Third Party insurance,70000,17.0,5,Others,Bangalore
+Diesel,Sedan,Manual,3,Honda,Honda Amaze,2014,3.9,Third Party insurance,80000,25.8,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Swift,2009,2.8,Third Party insurance,90000,16.1,5,Others,Bangalore
+Petrol,SUV,Manual,1,Nissan,Nissan Magnite,2021,9.2,Third Party insurance,20000,18.75,5,Others,Bangalore
+Diesel,SUV,Automatic,1,Mahindra,Mahindra Thar,2021,16.0,Third Party insurance,50000,18.976466898954705,4,Others,Bangalore
+Petrol,SUV,Manual,1,Nissan,Nissan Magnite,2021,6.5,Third Party insurance,10000,18.75,5,Brown,Bangalore
+Petrol,Hatchback,Manual,4,Hyundai,Hyundai i10,2010,2.4,Third Party insurance,80000,20.36,5,Silver,Bangalore
+Diesel,SUV,Automatic,1,Land Rover,Land Rover Discovery Sport,2018,44.45,Comprehensive,61000,12.51,7,White,Bangalore
+Diesel,MUV,Manual,1,Mahindra,Mahindra Marazzo,2019,13.5,Third Party insurance,50000,17.3,7,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Alto 800,2015,3.12,Comprehensive,50406,22.05,5,Blue,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Grand i10,2017,5.82,Comprehensive,26483,18.9,5,Blue,Bangalore
+Diesel,Hatchback,Manual,2,Tata,Tata Indica V2,2015,1.5,Third Party insurance,80000,25.0,5,Others,Bangalore
+Petrol,SUV,Manual,1,Mahindra,Mahindra KUV 100,2018,6.18,Comprehensive,12104,18.15,6,Others,Bangalore
+Petrol,Hatchback,Automatic,1,Honda,Honda Jazz,2021,9.16,Comprehensive,23721,17.1,5,Silver,Bangalore
+Diesel,Hatchback,Manual,1,Ford,Ford Figo,2012,3.0,Third Party insurance,80000,20.0,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti S-Presso,2022,5.55,Comprehensive,8212,21.7,5,Silver,Bangalore
+Diesel,Sedan,Automatic,3,Skoda,Skoda Superb,2011,5.0,Third Party insurance,80000,11.9,5,Black,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Baleno,2021,9.5,Comprehensive,9358,21.4,5,Blue,Bangalore
+Petrol,Sedan,Manual,1,Maruti,Maruti Swift Dzire,2016,6.08,Comprehensive,62011,22.41,5,White,Bangalore
+Diesel,Sedan,Manual,2,Tata,Tata Indigo,2011,1.25,Third Party insurance,120000,17.0,5,Red,Bangalore
+Petrol,Sedan,Automatic,2,Jaguar,Jaguar XJ,2011,17.0,Third Party insurance,90000,10.5,4,Black,Bangalore
+Petrol,Sedan,Automatic,2,Jaguar,Jaguar XJ,2011,17.0,Third Party insurance,90000,10.5,4,Black,Bangalore
+Diesel,Hatchback,Manual,1,Ford,Ford Figo,2013,2.25,Third Party insurance,50000,20.0,5,Others,Bangalore
+Diesel,Hatchback,Manual,2,Skoda,Skoda Fabia,2010,2.49,Third Party insurance,100000,19.4,5,Others,Bangalore
+Diesel,SUV,Manual,1,Tata,Tata Sumo,2008,1.5,Third Party insurance,100000,14.4,8,White,Bangalore
+Diesel,Sedan,Manual,5,Mitsubishi,Mitsubishi Lancer,2002,1.3,Third Party insurance,120000,14.8,5,White,Bangalore
+Petrol,Sedan,Automatic,2,Ford,Ford Mondeo,2000,50.0,Third Party insurance,80000,9.0,5,Gold,Bangalore
+Petrol,Sedan,Manual,2,Honda,Honda Amaze,2015,3.75,Third Party insurance,50000,18.0,5,Black,Bangalore
+Petrol,Hatchback,Manual,1,Renault,Renault KWID,2022,5.5,Third Party insurance,10000,21.74,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Grand i10,2019,5.9,Comprehensive,38771,18.9,5,Silver,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Celerio X,2018,5.11,Comprehensive,42174,21.63,5,Orange,Bangalore
+Diesel,Sedan,Manual,1,Tata,Tata Indigo,2017,2.6,Third Party insurance,120000,19.09,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Renault,Renault KWID,2017,3.81,Comprehensive,43199,23.01,5,Silver,Bangalore
+Diesel,SUV,Manual,2,Mahindra,Mahindra XUV500,2014,8.19,Third Party,65000,15.1,7,Black,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Baleno,2016,5.75,Third Party insurance,20000,21.4,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Renault,Renault KWID,2019,4.28,Third Party,10155,22.25,5,Silver,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai Santro Xing,2006,1.95,Comprehensive,110654,18.976466898954705,5,Blue,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2020,6.96,Third Party,50704,21.21,5,Blue,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Grand i10 Nios,2020,7.4,Comprehensive,34725,20.7,5,White,Bangalore
+Diesel,SUV,Manual,2,Mahindra,Mahindra XUV500,2013,8.25,Third Party insurance,90000,15.1,7,Others,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i10,2011,3.0,Third Party insurance,30000,19.81,5,Others,Bangalore
+Diesel,Hatchback,Manual,1,Tata,Tata Tiago,2016,5.0,Third Party insurance,60000,27.28,5,Red,Bangalore
+Diesel,Sedan,Manual,2,Nissan,Nissan Sunny,2013,2.3,Third Party insurance,120000,21.64,5,Others,Bangalore
+Petrol,Sedan,Manual,2,Ford,Ford Ikon,2004,75.0,Third Party insurance,80000,14.2,5,Others,Bangalore
+Petrol,Sedan,Manual,1,Hyundai,Hyundai Accent,2009,2.6,Third Party insurance,60000,13.2,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Wagon R,2008,2.4,Comprehensive,57709,18.9,5,Golden,Bangalore
+Petrol,SUV,Manual,1,Mahindra,Mahindra Thar,2022,15.0,Third Party insurance,20000,15.2,4,Red,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i10,2010,2.75,Third Party insurance,90000,20.36,5,Gray,Bangalore
+Diesel,Sedan,Automatic,2,Jaguar,Jaguar XF,2014,20.0,Third Party insurance,60000,16.36,5,Black,Bangalore
+Diesel,SUV,Manual,2,Mahindra,Mahindra XUV500,2016,10.13,Comprehensive,26224,16.0,7,Silver,Bangalore
+Petrol,Sedan,Manual,2,Honda,Honda City,2016,6.77,Comprehensive,32196,17.8,5,White,Bangalore
+Diesel,MUV,Manual,1,Maruti,Maruti Ertiga,2016,9.0,Third Party insurance,120000,24.52,7,Others,Bangalore
+Petrol,Hatchback,Manual,3,Hyundai,Hyundai i20,2017,5.91,Third Party insurance,56672,18.6,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti S-Presso,2020,4.28,Comprehensive,21226,21.7,5,White,Bangalore
+Diesel,SUV,Manual,2,Toyota,Toyota Fortuner,2010,11.45,Comprehensive,105000,11.5,7,White,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Grand i10 Nios,2022,6.97,Third Party insurance,10346,20.7,5,Blue,Bangalore
+Petrol,Sedan,Automatic,3,Maruti,Maruti Swift Dzire,2020,6.3,Third Party insurance,30000,22.61,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Alto 800,2021,4.29,Third Party insurance,16679,22.05,5,Silver,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Celerio,2016,4.64,Comprehensive,15437,25.24,5,White,Bangalore
+Petrol,MUV,Manual,1,Renault,Renault Triber,2019,7.5,Third Party insurance,40000,20.0,7,Others,Bangalore
+Petrol,SUV,Automatic,2,Hyundai,Hyundai Venue,2019,11.0,Third Party insurance,30000,18.15,5,Others,Bangalore
+Diesel,Sedan,Manual,1,Hyundai,Hyundai Elantra,2014,7.0,Third Party insurance,90000,22.7,5,Others,Bangalore
+Diesel,Sedan,Automatic,2,Mercedes-Benz,Mercedes-Benz C-Class,2013,11.0,Third Party insurance,110000,15.8,5,Others,Bangalore
+Petrol,SUV,Manual,1,Skoda,Skoda Kushaq,2022,16.95,Comprehensive,20000,18.09,5,White,Bangalore
+Diesel,SUV,Automatic,1,Audi,Audi Q7,2011,20.0,Third Party insurance,120000,12.07,7,White,Bangalore
+Petrol,Minivans,Manual,1,Maruti,Maruti Eeco,2021,5.0,Third Party insurance,10000,16.11,7,Others,Bangalore
+Petrol,SUV,Manual,3,Honda,Honda CR-V,2005,2.0,Third Party insurance,110000,11.1,5,Silver,Bangalore
+Diesel,Sedan,Automatic,1,Jaguar,Jaguar XF,2017,27.0,Third Party insurance,120000,19.33,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Datsun,Datsun RediGO,2020,3.6,Third Party insurance,50000,21.7,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Honda,Honda Jazz,2017,7.33,Comprehensive,15017,18.7,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Wagon R,2013,3.75,Comprehensive,75283,18.9,5,Red,Bangalore
+Diesel,SUV,Manual,2,Tata,Tata Harrier,2021,18.85,Third Party insurance,54568,16.35,5,Black,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2016,6.57,Comprehensive,14516,18.6,5,White,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Baleno,2019,7.29,Comprehensive,53627,21.4,5,Blue,Bangalore
+Petrol,Sedan,Manual,1,Tata,Tata Tigor,2021,8.0,Third Party insurance,20000,19.28,5,Blue,Bangalore
+Petrol,Hatchback,Automatic,2,Renault,Renault KWID,2019,5.01,Third Party,5083,23.01,5,Blue,Bangalore
+Diesel,SUV,Manual,2,Mahindra,Mahindra TUV 300,2016,6.5,Third Party insurance,100000,18.49,7,Others,Bangalore
+Petrol,Sedan,Automatic,1,Honda,Honda City,2017,10.05,Third Party,50666,18.0,5,Silver,Bangalore
+Petrol,SUV,Manual,1,Tata,Tata Nexon,2022,11.93,Third Party,16962,17.57,5,Black,Bangalore
+Petrol,Hatchback,Manual,1,Volkswagen,Volkswagen Polo,2019,9.0,Third Party insurance,10000,18.78,5,Others,Bangalore
+Diesel,SUV,Manual,1,Mahindra,Mahindra XUV700,2022,21.5,Third Party insurance,10000,18.976466898954705,7,Others,Bangalore
+Petrol,Hatchback,Automatic,1,Volkswagen,Volkswagen Polo,2017,9.25,Comprehensive,70446,17.21,5,Red,Bangalore
+Petrol,Hatchback,Automatic,2,Volkswagen,Volkswagen Polo,2017,8.65,Third Party insurance,60528,17.21,5,Grey,Bangalore
+Petrol,SUV,Manual,1,Volkswagen,Volkswagen Taigun,2021,15.85,Comprehensive,7132,20.08,5,Silver,Bangalore
+Diesel,Sedan,Manual,5,Ford,Ford Fiesta,2009,1.2,Third Party insurance,100000,17.8,5,White,Bangalore
+Diesel,SUV,Automatic,3,Mercedes-Benz,Mercedes-Benz M-Class,2012,18.0,Third Party insurance,80000,11.74,5,Others,Bangalore
+Petrol,SUV,Automatic,1,Mercedes-Benz,Mercedes-Benz GLE,2018,70.0,Third Party insurance,30000,8.9,5,Red,Bangalore
+Diesel,Hatchback,Manual,3,Tata,Tata Indica V2,2015,1.95,Third Party insurance,120000,17.88,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2018,7.99,Comprehensive,21280,18.6,5,Silver,Bangalore
+Petrol,SUV,Automatic,1,Ford,Ford Ecosport,2017,6.89,Zero Dep,82021,15.63,5,Silver,Bangalore
+Petrol,SUV,Manual,1,Tata,Tata Nexon,2023,10.68,Third Party,18998,17.33,5,Red,Bangalore
+Diesel,SUV,Manual,1,Jeep,Jeep Compass,2018,17.99,Third Party insurance,56189,16.3,5,Red,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti S-Presso,2020,3.83,Third Party,57644,21.7,5,Orange,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Alto 800,2018,3.27,Comprehensive,51286,24.7,5,Silver,Bangalore
+Diesel,SUV,Manual,1,Mahindra,Mahindra Quanto,2012,1.95,Third Party insurance,120000,17.21,7,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Grand i10 Nios,2019,6.39,Third Party insurance,27937,20.7,5,Silver,Bangalore
+Diesel,SUV,Manual,2,Renault,Renault Duster,2013,5.75,Comprehensive,64000,20.45,5,White,Bangalore
+Petrol,SUV,Manual,2,Ford,Ford Ecosport,2017,6.6,Comprehensive,40031,15.85,5,White,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Alto 800,2017,3.25,Comprehensive,47619,22.05,5,Silver,Bangalore
+Petrol,Hatchback,Manual,5,Hyundai,Hyundai i20,2009,2.25,Third Party insurance,90000,17.0,5,Silver,Bangalore
+Petrol,SUV,Automatic,1,Toyota,Toyota Urban cruiser,2022,10.75,Third Party insurance,20000,18.76,5,Gray,Bangalore
+Petrol,SUV,Manual,1,Toyota,Toyota Urban cruiser,2022,9.75,Third Party insurance,20000,17.03,5,Gray,Bangalore
+Petrol,Hatchback,Manual,3,Hyundai,Hyundai i10,2010,3.0,Third Party insurance,70000,20.36,5,Others,Bangalore
+Diesel,Sedan,Manual,3,Maruti,Maruti SX4,2011,2.9,Third Party insurance,110000,21.5,5,Others,Bangalore
+Petrol,Hatchback,Manual,3,Honda,Honda Brio,2012,2.6,Third Party insurance,40000,19.4,5,Others,Bangalore
+Diesel,Sedan,Manual,3,Nissan,Nissan Sunny,2012,3.6,Third Party insurance,100000,21.64,5,Others,Bangalore
+Diesel,SUV,Automatic,4,BMW,BMW X3,2013,15.0,Third Party insurance,10000,16.55,5,Others,Bangalore
+Petrol,Hatchback,Manual,4,Hyundai,Hyundai EON,2017,2.5,Third Party insurance,60000,21.1,5,Others,Bangalore
+Petrol,SUV,Automatic,1,Mahindra,Mahindra Thar,2021,17.74,Comprehensive,24000,18.976466898954705,4,Black,Bangalore
+Petrol,SUV,Manual,2,Hyundai,Hyundai Venue,2020,10.73,Third Party,30535,18.0,5,White,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Alto K10,2017,3.49,Third Party,20229,23.95,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Celerio,2018,4.85,Third Party insurance,35800,21.63,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Wagon R,2021,5.91,Comprehensive,11453,20.52,5,Grey,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2016,6.57,Comprehensive,35410,18.6,5,Blue,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Alto,2009,2.1,Third Party insurance,50000,19.7,5,Others,Bangalore
+Petrol,Hatchback,Automatic,1,Hyundai,Hyundai Grand i10,2018,5.91,Third Party insurance,49948,18.9,5,Blue,Bangalore
+Diesel,Hatchback,Manual,2,Volkswagen,Volkswagen Polo,2014,5.1,Comprehensive,77000,22.07,5,Grey,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2017,6.58,Comprehensive,48285,18.6,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Renault,Renault KWID,2021,5.14,Comprehensive,19062,21.74,5,White,Bangalore
+Petrol,Hatchback,Automatic,2,Hyundai,Hyundai i10,2011,3.3,Third Party insurance,70000,16.95,5,Others,Bangalore
+Diesel,Sedan,Automatic,2,Mercedes-Benz,Mercedes-Benz E-Class,2015,22.5,Third Party insurance,120000,13.0,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Citroen,Citroen C3,2022,9.5,Third Party insurance,10000,19.3,5,White,Bangalore
+Petrol,Hatchback,Manual,3,Volkswagen,Volkswagen Polo,2014,4.95,Third Party insurance,80000,16.47,5,Blue,Bangalore
+Petrol,Hatchback,Manual,2,Fiat,Fiat Palio,2007,1.1,Third Party insurance,80000,15.5,5,Silver,Bangalore
+Petrol,Sedan,Manual,1,Toyota,Toyota Etios,2011,3.3,Comprehensive,87000,17.6,5,Red,Bangalore
+Diesel,Sedan,Automatic,1,Volkswagen,Volkswagen Vento,2016,7.75,Third Party insurance,80000,22.15,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Wagon R,2010,2.6,Third Party insurance,110000,18.9,5,Others,Bangalore
+Petrol,Sedan,Automatic,3,Honda,Honda City,2009,3.0,Third Party insurance,90000,16.8,5,Others,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Swift,2019,6.5,Third Party insurance,30000,21.21,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Alto K10,2016,3.75,Comprehensive,56276,23.95,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2016,6.47,Comprehensive,27103,18.6,5,White,Bangalore
+Diesel,Hatchback,Manual,2,Ford,Ford Figo,2011,2.45,Third Party insurance,80000,20.0,5,Others,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Ignis,2017,5.91,Zero Dep,46507,20.89,5,Blue,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Grand i10,2018,5.75,Third Party insurance,30000,18.9,5,Others,Bangalore
+Petrol,Sedan,Manual,1,Maruti,Maruti Swift Dzire,2017,6.59,Zero Dep,39070,21.21,5,Red,Bangalore
+Diesel,Sedan,Manual,1,Toyota,Toyota Etios,2019,7.2,Third Party insurance,120000,23.59,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Baleno,2020,7.33,Third Party insurance,22438,21.01,5,Others,Bangalore
+Petrol,Hatchback,Automatic,2,Maruti,Maruti Baleno,2020,8.67,Zero Dep,21225,21.4,5,Red,Bangalore
+Petrol,Hatchback,Automatic,1,Honda,Honda Jazz,2019,8.5,Comprehensive,28737,18.2,5,MODERN STEEL METALLIC,Bangalore
+Petrol,SUV,Manual,1,Renault,Renault Kiger,2021,9.2,Third Party insurance,20000,20.5,5,Others,Bangalore
+Diesel,Hatchback,Manual,1,Hyundai,Hyundai i20,2019,7.2,Third Party insurance,30000,22.54,5,Others,Bangalore
+Petrol,Hatchback,Manual,3,Chevrolet,Chevrolet Spark,2009,1.2,Third Party insurance,70000,18.0,5,Silver,Bangalore
+Diesel,Sedan,Automatic,2,Mercedes-Benz,Mercedes-Benz C-Class,2010,6.5,Third Party insurance,120000,14.84,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai i20,2012,3.5,Third Party insurance,80000,18.5,5,Gray,Bangalore
+Diesel,Hatchback,Manual,2,Volkswagen,Volkswagen Polo,2010,3.6,Third Party insurance,100000,22.07,5,Others,Bangalore
+Diesel,Sedan,Automatic,1,Audi,Audi A6,2013,16.0,Third Party insurance,80000,17.68,5,Others,Bangalore
+Petrol,Hatchback,Manual,3,Maruti,Maruti Estilo,2009,2.0,Third Party insurance,40000,19.5,5,Others,Bangalore
+Diesel,Sedan,Manual,1,Skoda,Skoda Octavia,2018,16.0,Third Party insurance,70000,21.0,5,Others,Bangalore
+Diesel,Hatchback,Manual,2,Hyundai,Hyundai i20,2013,3.81,Third Party insurance,90106,21.9,5,Silver,Bangalore
+Petrol,Sedan,Manual,1,Skoda,Skoda Superb,2009,4.0,Third Party insurance,50000,13.7,5,White,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Celerio,2016,3.89,Zero Dep,138175,26.68,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Renault,Renault KWID,2019,4.45,Third Party insurance,55609,23.01,5,White,Bangalore
+Diesel,Hatchback,Manual,3,Tata,Tata Indica V2,2015,1.86,Third Party insurance,120000,17.88,5,White,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Swift,2018,6.42,Comprehensive,56410,22.56,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Baleno,2022,7.25,Third Party insurance,30000,22.35,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2017,6.16,Comprehensive,77593,18.6,5,White,Bangalore
+Petrol,SUV,Manual,1,Honda,Honda WR-V,2018,6.94,Third Party,49538,17.5,5,Silver,Bangalore
+Diesel,Sedan,Manual,4,Chevrolet,Chevrolet Cruze,2012,4.0,Third Party insurance,87000,17.3,5,Gray,Bangalore
+Diesel,SUV,Manual,1,Mahindra,Mahindra Bolero,2016,6.5,Third Party insurance,80000,15.96,9,Others,Bangalore
+Petrol,Hatchback,Manual,2,Datsun,Datsun RediGO,2018,3.0,Third Party insurance,50000,22.5,5,Others,Bangalore
+Diesel,Hatchback,Manual,1,Maruti,Maruti Swift,2012,4.0,Third Party insurance,120000,22.9,5,Others,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2018,6.49,Third Party insurance,30000,22.0,5,Others,Bangalore
+Diesel,Hatchback,Manual,2,Volkswagen,Volkswagen Polo,2010,3.6,Third Party insurance,100000,22.07,5,Others,Bangalore
+Diesel,Hatchback,Manual,2,Volkswagen,Volkswagen Polo,2010,3.6,Third Party insurance,100000,22.07,5,Others,Bangalore
+Petrol,Hatchback,Manual,3,Hyundai,Hyundai Santro Xing,2010,2.4,Third Party insurance,120000,17.92,5,Others,Bangalore
+Petrol,Hatchback,Automatic,1,Hyundai,Hyundai Grand i10 Nios,2021,8.0,Third Party insurance,30000,20.7,5,Others,Bangalore
+Diesel,Hatchback,Manual,1,Maruti,Maruti Swift,2009,3.5,Third Party insurance,100000,17.8,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Celerio,2016,4.15,Third Party insurance,41268,25.24,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2011,3.84,Comprehensive,60020,22.38,5,Red,Bangalore
+Diesel,SUV,Manual,1,Mahindra,Mahindra XUV500,2015,9.0,Third Party insurance,120000,16.0,7,Others,Bangalore
+Diesel,Hatchback,Manual,1,Hyundai,Hyundai i20,2016,7.82,Third Party insurance,32148,22.54,5,Red,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Celerio,2016,4.63,Comprehensive,69565,26.0,5,Silver,Bangalore
+Diesel,Hatchback,Manual,1,Honda,Honda Jazz,2017,6.6,Third Party insurance,60000,27.3,5,White,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Swift,2018,6.63,Comprehensive,26007,22.56,5,White,Bangalore
+Petrol,SUV,Manual,2,Ford,Ford Ecosport,2018,9.0,Third Party insurance,30000,18.88,5,Brown,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Swift,2010,3.16,Comprehensive,134850,22.38,5,Blue,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Celerio,2015,4.36,Comprehensive,44385,25.24,5,White,Bangalore
+Diesel,SUV,Manual,2,Tata,Tata New Safari,2009,2.8,Third Party insurance,120000,13.93,7,White,Bangalore
+Diesel,SUV,Manual,1,Hyundai,Hyundai Creta,2018,13.5,Third Party insurance,30000,19.67,5,Others,Bangalore
+Diesel,Sedan,Automatic,3,BMW,BMW 3 Series,2011,9.75,Third Party insurance,87000,13.2,5,Black,Bangalore
+Petrol,Sedan,Automatic,1,Honda,Honda City,2014,5.2,Comprehensive,102662,18.0,5,TITANIUM GREY,Bangalore
+Petrol,SUV,Automatic,1,Skoda,Skoda Kushaq,2022,17.65,Comprehensive,13802,17.2,5,White,Bangalore
+Diesel,Hatchback,Manual,4,Ford,Ford Figo,2011,1.75,Third Party insurance,90000,20.0,5,Others,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai i20,2011,4.0,Third Party insurance,40000,17.0,5,Others,Bangalore
+Petrol,Sedan,Automatic,2,Mercedes-Benz,Mercedes-Benz C-Class,2011,9.5,Third Party insurance,65000,14.74,5,White,Bangalore
+Petrol,SUV,Manual,1,Kia,Kia Seltos,2020,15.95,Comprehensive,42000,16.1,5,White,Bangalore
+Petrol,Hatchback,Automatic,2,Hyundai,Hyundai Grand i10,2017,5.93,Comprehensive,13444,18.9,5,Silver,Bangalore
+Diesel,SUV,Manual,1,Mahindra,Mahindra XUV300,2019,10.57,Third Party insurance,56226,20.0,5,Silver,Bangalore
+Petrol,Hatchback,Automatic,1,Renault,Renault KWID,2020,5.6,Third Party,8733,22.0,5,Red,Bangalore
+Petrol,Sedan,Automatic,1,Honda,Honda City,2020,12.64,Comprehensive,57963,18.3,5,White,Bangalore
+Petrol,Sedan,Automatic,1,Honda,Honda City,2022,16.66,Comprehensive,19508,16.4,5,PLATINUM WHITE,Bangalore
+Petrol,Sedan,Manual,1,Honda,Honda City,2018,7.89,Third Party insurance,49423,17.4,5,Brown,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Swift,2012,4.59,Comprehensive,78622,22.38,5,White,Bangalore
+Diesel,SUV,Manual,1,Hyundai,Hyundai Venue,2022,12.75,Third Party insurance,18025,18.976466898954705,5,Blue,Bangalore
+Petrol,Sedan,Manual,1,Honda,Honda City,2010,3.75,Comprehensive,68220,17.0,5,White,Bangalore
+Diesel,SUV,Automatic,1,Jeep,Jeep Meridian,2022,38.75,Comprehensive,6000,18.976466898954705,7,Maroon,Bangalore
+Diesel,SUV,Manual,1,Mahindra,Mahindra Thar,2018,9.85,Third Party insurance,59889,16.55,6,Golden,Bangalore
+Diesel,Sedan,Automatic,2,Jaguar,Jaguar XE,2019,37.75,Comprehensive,11000,13.5,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2019,8.25,Comprehensive,38500,18.6,5,Red,Bangalore
+Diesel,SUV,Automatic,2,Toyota,Toyota Fortuner,2013,16.25,Comprehensive,120000,12.55,7,Silver,Bangalore
+Diesel,Sedan,Automatic,2,BMW,BMW 3 Series,2016,21.98,Third Party insurance,39157,22.69,5,White,Bangalore
+Diesel,MUV,Manual,1,Toyota,Toyota Innova,2008,8.25,Comprehensive,162000,12.8,7,Golden,Bangalore
+Petrol,Hatchback,Automatic,2,BMW,BMW 1 Series,2013,11.75,Third Party,89900,16.28,5,Blue,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Baleno,2017,6.56,Comprehensive,58666,21.4,5,White,Bangalore
+Petrol,Sedan,Automatic,1,Maruti,Maruti Swift Dzire,2018,6.12,Third Party insurance,54137,21.21,5,Silver,Bangalore
+Diesel,SUV,Manual,2,Toyota,Toyota Fortuner,2011,11.95,Comprehensive,180000,11.5,7,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Renault,Renault KWID,2019,4.36,Comprehensive,21997,23.01,5,Red,Bangalore
+Petrol,Sedan,Automatic,2,Maruti,Maruti Swift Dzire,2020,7.21,Comprehensive,40394,21.21,5,Blue,Bangalore
+Diesel,SUV,Automatic,2,BMW,BMW X1,2015,17.5,Comprehensive,49000,17.05,5,Green,Bangalore
+Petrol,SUV,Manual,1,Ford,Ford Ecosport,2017,6.2,Comprehensive,80390,15.85,5,White,Bangalore
+Diesel,Sedan,Automatic,1,Mercedes-Benz,Mercedes-Benz C-Class,2018,32.99,Comprehensive,52721,12.6,5,White,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Baleno,2017,6.43,Comprehensive,55127,21.4,5,Red,Bangalore
+Diesel,SUV,Manual,2,Ford,Ford Ecosport,2018,8.22,Comprehensive,35922,23.0,5,Blue,Bangalore
+Petrol,Sedan,Automatic,1,Honda,Honda Amaze,2019,8.38,Third Party insurance,16883,19.0,5,Red,Bangalore
+Diesel,SUV,Manual,2,Renault,Renault Duster,2013,6.25,Comprehensive,86000,19.6,5,White,Bangalore
+Petrol,Sedan,Automatic,1,Skoda,Skoda Octavia,2016,11.25,Comprehensive,88000,15.1,5,Maroon,Bangalore
+Diesel,SUV,Automatic,1,Jeep,Jeep Compass,2020,25.45,Comprehensive,34000,17.1,5,White,Bangalore
+Diesel,Hatchback,Manual,1,Skoda,Skoda Fabia,2013,3.45,Comprehensive,110000,20.86,5,Grey,Bangalore
+Diesel,SUV,Manual,1,Renault,Renault Duster,2020,9.99,Third Party insurance,55398,19.87,5,Orange,Bangalore
+Petrol,SUV,Automatic,2,Ford,Ford Ecosport,2015,6.75,Comprehensive,54000,14.7,5,Orange,Bangalore
+Petrol,Hatchback,Manual,1,Volkswagen,Volkswagen Polo,2019,8.75,Comprehensive,25829,18.78,5,Brown,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Celerio,2016,4.85,Comprehensive,36913,23.1,5,Silver,Bangalore
+Diesel,Hatchback,Manual,1,Hyundai,Hyundai i20,2018,7.75,Comprehensive,34000,22.54,5,White,Bangalore
+Petrol,Hatchback,Automatic,2,Maruti,Maruti Swift,2018,6.55,Third Party insurance,42162,22.56,5,Silver,Bangalore
+Petrol,Hatchback,Automatic,2,Maruti,Maruti Celerio,2016,5.25,Comprehensive,48041,23.1,5,Red,Bangalore
+Petrol,Hatchback,Manual,3,Renault,Renault KWID,2020,4.42,Third Party insurance,43285,23.01,5,Blue,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2012,4.76,Comprehensive,44326,18.5,5,Silver,Bangalore
+Petrol,Hatchback,Automatic,2,Volkswagen,Volkswagen Polo,2017,8.65,Comprehensive,62984,17.21,5,White,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Swift,2010,3.38,Comprehensive,99276,22.38,5,Silver,Bangalore
+Petrol,SUV,Automatic,2,Hyundai,Hyundai Creta,2018,12.99,Comprehensive,42812,13.0,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2013,4.92,Comprehensive,57770,22.38,5,Red,Bangalore
+Petrol,Hatchback,Automatic,3,Hyundai,Hyundai Grand i10,2017,5.44,Third Party,42220,18.9,5,Red,Bangalore
+Diesel,SUV,Automatic,1,Mahindra,Mahindra XUV500,2016,13.65,Third Party insurance,66977,16.0,7,Grey,Bangalore
+Petrol,SUV,Manual,1,Hyundai,Hyundai Venue,2021,10.85,Third Party,29916,18.0,5,White,Bangalore
+Petrol,Sedan,Automatic,1,Skoda,Skoda Slavia,2022,14.88,Third Party,10066,18.07,5,Silver,Bangalore
+Petrol,Sedan,Automatic,2,Skoda,Skoda Rapid,2019,9.39,Comprehensive,39243,14.84,5,White,Bangalore
+Petrol,Sedan,Automatic,2,Skoda,Skoda Rapid,2017,8.88,Third Party insurance,36309,14.84,5,White,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Celerio,2014,4.25,Third Party,69408,23.1,5,Maroon,Bangalore
+Petrol,Sedan,Automatic,2,Honda,Honda Amaze,2019,8.18,Third Party insurance,12064,19.0,5,White,Bangalore
+Diesel,Sedan,Automatic,1,Mercedes-Benz,Mercedes-Benz E-Class,2013,19.44,Comprehensive,74000,14.21,5,Grey,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Swift,2018,6.95,Comprehensive,18000,22.0,5,Blue,Bangalore
+Petrol,Sedan,Automatic,1,Volkswagen,Volkswagen Vento,2010,4.75,Comprehensive,59000,14.4,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Grand i10,2018,5.51,Comprehensive,17190,18.9,5,Blue,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Wagon R,2013,3.52,Comprehensive,58323,18.9,5,Brown,Bangalore
+Petrol,Sedan,Manual,1,Honda,Honda City,2015,6.0,Comprehensive,40765,17.8,5,Red,Bangalore
+Petrol,Hatchback,Automatic,2,Maruti,Maruti Celerio,2016,4.79,Third Party,58198,26.0,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Grand i10,2019,5.59,Third Party insurance,42976,18.9,5,Silver,Bangalore
+Diesel,SUV,Automatic,1,Hyundai,Hyundai Tucson,2017,15.19,Comprehensive,104507,18.976466898954705,7,White,Bangalore
+Petrol,Sedan,Manual,1,Maruti,Maruti Swift Dzire,2012,4.09,Third Party,44074,22.41,5,Black,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Wagon R,2017,5.39,Comprehensive,21000,21.79,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2021,7.37,Third Party,14089,22.38,5,Red,Bangalore
+Diesel,Sedan,Manual,2,Honda,Honda City,2014,5.26,Comprehensive,94378,26.0,5,Red,Bangalore
+Diesel,SUV,Automatic,1,Mahindra,Mahindra XUV500,2016,13.5,Comprehensive,71000,16.0,7,Silver,Bangalore
+Diesel,SUV,Manual,1,Toyota,Toyota Fortuner,2018,31.94,Comprehensive,174000,14.24,7,White,Bangalore
+Petrol,Hatchback,Automatic,2,Hyundai,Hyundai Grand i10,2016,5.85,Comprehensive,58000,18.9,5,White,Bangalore
+Diesel,SUV,Automatic,2,Audi,Audi Q3,2014,14.95,Third Party insurance,113000,15.73,5,Brown,Bangalore
+Diesel,SUV,Automatic,2,Volvo,Volvo XC 90,2010,10.9,Comprehensive,170402,11.1,7,White,Bangalore
+Diesel,Sedan,Automatic,2,Audi,Audi A4,2016,21.0,Comprehensive,30000,18.25,5,White,Bangalore
+Petrol,Sedan,Manual,1,Maruti,Maruti Swift Dzire,2014,5.9,Comprehensive,59000,19.1,5,Silver,Bangalore
+Diesel,SUV,Manual,1,Mahindra,Mahindra XUV500,2021,18.99,Comprehensive,25883,15.1,7,White,Bangalore
+Petrol,SUV,Manual,1,Volkswagen,Volkswagen Taigun,2021,15.45,Comprehensive,32746,20.08,5,White,Bangalore
+Petrol,Sedan,Automatic,1,Skoda,Skoda Octavia,2017,18.95,Comprehensive,35038,14.7,5,White,Bangalore
+Petrol,Hatchback,Manual,3,Ford,Ford Freestyle,2018,5.4,Comprehensive,38995,19.0,5,Yellow,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2013,4.91,Comprehensive,61102,22.38,5,Red,Bangalore
+Diesel,SUV,Manual,2,Skoda,Skoda Yeti,2012,6.25,Comprehensive,132000,17.67,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti S-Presso,2021,4.36,Third Party insurance,52288,21.7,5,Others,Bangalore
+Petrol,Hatchback,Automatic,1,Honda,Honda Jazz,2017,6.16,Comprehensive,69054,19.0,5,Brown,Bangalore
+Petrol,SUV,Manual,1,Renault,Renault Duster,2015,6.75,Comprehensive,67000,13.24,5,Silver,Bangalore
+Diesel,Sedan,Manual,2,Maruti,Maruti Swift Dzire,2015,5.33,Comprehensive,51745,26.59,5,Black,Bangalore
+Petrol,Convertibles,Automatic,1,Audi,Audi A3 cabriolet,2015,34.95,Comprehensive,22000,16.6,4,Red,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai Grand i10,2017,6.26,Comprehensive,11268,18.9,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Tata,Tata Tiago,2020,6.32,Zero Dep,24357,20.09,5,Red,Bangalore
+Diesel,MUV,Manual,2,Toyota,Toyota Innova Crysta,2016,17.75,Comprehensive,157000,13.68,8,White,Bangalore
+Petrol,Sedan,Manual,1,Honda,Honda City,2018,10.0,Comprehensive,9982,17.0,5,Golden Brown,Bangalore
+Diesel,Sedan,Automatic,1,Audi,Audi A3,2020,28.75,Comprehensive,22000,20.38,5,Red,Bangalore
+Petrol,SUV,Manual,1,Hyundai,Hyundai Venue,2020,10.85,Comprehensive,27000,18.0,5,Blue,Bangalore
+Diesel,Sedan,Automatic,2,BMW,BMW 3 Series,2017,22.75,Comprehensive,68000,22.69,5,White,Bangalore
+Petrol,SUV,Automatic,1,Hyundai,Hyundai Venue,2022,13.65,Comprehensive,19000,18.15,5,White,Bangalore
+Diesel,SUV,Automatic,2,BMW,BMW X1,2012,15.5,Third Party insurance,41000,17.05,5,Brown,Bangalore
+Diesel,SUV,Automatic,1,BMW,BMW X1,2018,30.25,Comprehensive,49000,20.68,5,Blue,Bangalore
+Diesel,Sedan,Automatic,2,BMW,BMW 5 Series,2018,42.75,Comprehensive,45000,20.37,5,Black,Bangalore
+Diesel,SUV,Automatic,2,BMW,BMW X5,2016,44.5,Comprehensive,75000,11.7,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Celerio,2015,4.83,Third Party,39613,25.24,5,Red,Bangalore
+Petrol,Sedan,Automatic,2,Honda,Honda City,2018,10.07,Third Party insurance,68906,18.0,5,White,Bangalore
+Petrol,SUV,Automatic,1,Renault,Renault Duster,2019,9.95,Comprehensive,33000,13.9,5,White,Bangalore
+Petrol,Sedan,Manual,1,Maruti,Maruti Swift Dzire,2016,5.73,Comprehensive,71423,22.41,5,Red,Bangalore
+Petrol,Sedan,Manual,1,Maruti,Maruti Swift Dzire,2015,6.58,Comprehensive,17811,22.41,5,Silver,Bangalore
+Diesel,SUV,Automatic,1,Hyundai,Hyundai Creta,2017,12.45,Comprehensive,79000,17.6,5,White,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Baleno,2020,9.06,Zero Dep,9724,21.4,5,Silver,Bangalore
+Petrol,SUV,Manual,1,Hyundai,Hyundai Creta,2019,11.95,Comprehensive,75000,15.8,5,White,Bangalore
+Petrol,Sedan,Manual,1,Toyota,Toyota Yaris,2021,10.31,Comprehensive,20754,17.1,5,White,Bangalore
+Petrol,Hatchback,Manual,3,Hyundai,Hyundai Grand i10,2015,4.13,Comprehensive,50510,18.9,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Grand i10,2019,6.24,Comprehensive,35000,18.9,5,White,Bangalore
+Diesel,Sedan,Manual,3,Hyundai,Hyundai Verna,2011,4.65,Comprehensive,85000,22.32,5,Silver,Bangalore
+Petrol,Sedan,Automatic,1,Honda,Honda City,2018,10.5,Third Party insurance,48979,18.0,5,White,Bangalore
+Petrol,SUV,Manual,2,Tata,Tata Nexon,2017,7.25,Comprehensive,46000,17.0,5,Red,Bangalore
+Diesel,SUV,Automatic,1,Mahindra,Mahindra Thar,2020,18.0,Comprehensive,9000,18.976466898954705,4,Red,Bangalore
+Diesel,Sedan,Manual,2,Ford,Ford Aspire,2018,6.5,Third Party insurance,70000,26.1,5,Maroon,Bangalore
+Diesel,Sedan,Automatic,2,Volvo,Volvo S60,2014,13.95,Third Party insurance,78000,27.03,5,Red,Bangalore
+Diesel,Sedan,Manual,1,Honda,Honda Amaze,2021,8.65,Comprehensive,1500,24.7,5,Golden Brown,Bangalore
+Diesel,Sedan,Automatic,2,BMW,BMW 5 Series,2011,14.23,Comprehensive,70000,18.48,5,Golden,Bangalore
+Diesel,SUV,Automatic,1,MG,MG Gloster,2023,43.99,Comprehensive,8187,13.92,6,Black,Bangalore
+Petrol,Sedan,Manual,3,Maruti,Maruti Swift Dzire,2014,4.75,Comprehensive,81777,22.41,5,Silver,Bangalore
+Petrol,Sedan,Automatic,2,Honda,Honda City,2016,7.47,Comprehensive,48698,18.0,5,Others,Bangalore
+Petrol,SUV,Automatic,1,Kia,Kia Seltos,2020,15.9,Comprehensive,21000,16.5,5,Grey,Bangalore
+Petrol,Hatchback,Automatic,2,Hyundai,Hyundai Grand i10,2016,5.2,Comprehensive,67771,18.9,5,Silver,Bangalore
+Petrol,Sedan,Manual,1,Maruti,Maruti Swift Dzire,2015,5.3,Third Party,60386,22.41,5,White,Bangalore
+Petrol,Hatchback,Automatic,1,Tata,Tata Tiago,2018,5.95,Comprehensive,48928,23.84,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2010,3.12,Third Party,111374,18.5,5,Silver,Bangalore
+Petrol,SUV,Manual,2,Hyundai,Hyundai Creta,2017,9.2,Third Party insurance,33000,15.8,5,Grey,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Alto 800,2021,4.03,Zero Dep,40561,22.05,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2013,4.15,Comprehensive,92529,22.38,5,White,Bangalore
+Petrol,Sedan,Automatic,1,Honda,Honda Amaze,2019,8.5,Comprehensive,42000,18.1,5,Maroon,Bangalore
+Diesel,MUV,Automatic,1,Kia,Kia Carnival,2020,27.0,Comprehensive,55342,14.11,7,Aurora Black Pearl,Bangalore
+Diesel,SUV,Manual,1,Ford,Ford Ecosport,2021,11.45,Comprehensive,51000,21.7,5,Brown,Bangalore
+Diesel,SUV,Manual,2,Mahindra,Mahindra XUV500,2018,12.75,Comprehensive,37000,15.1,7,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Honda,Honda Jazz,2017,6.45,Comprehensive,36468,18.7,5,Silver,Bangalore
+Petrol,SUV,Manual,1,Mahindra,Mahindra XUV300,2022,14.4,Comprehensive,11250,16.82,5,Black,Bangalore
+Petrol,MUV,Manual,1,Maruti,Maruti Ertiga,2019,11.45,Comprehensive,36000,19.01,7,Golden,Bangalore
+Petrol,SUV,Automatic,1,Hyundai,Hyundai Venue,2019,12.25,Third Party insurance,36368,18.15,5,Blue,Bangalore
+Diesel,Sedan,Automatic,2,Mercedes-Benz,Mercedes-Benz S-Class,2016,52.75,Comprehensive,36000,13.5,5,White,Bangalore
+Diesel,SUV,Automatic,3,BMW,BMW X3,2017,38.0,Comprehensive,62000,18.56,5,White,Bangalore
+Petrol,Sedan,Manual,1,Honda,Honda City,2018,8.88,Comprehensive,39466,17.4,5,Brown,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2014,5.07,Comprehensive,49570,22.38,5,White,Bangalore
+Petrol,Sedan,Automatic,2,Volkswagen,Volkswagen Vento,2018,10.2,Comprehensive,23382,18.19,5,Beige,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti S-Presso,2021,4.72,Comprehensive,42954,21.7,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2014,4.71,Comprehensive,68306,22.38,5,Silver,Bangalore
+Diesel,Hatchback,Manual,1,Hyundai,Hyundai i20,2018,8.21,Comprehensive,54961,22.54,5,Star Dust,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2015,5.1,Comprehensive,91087,22.38,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Renault,Renault KWID,2022,5.99,Third Party,16691,21.74,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Wagon R,2016,4.02,Comprehensive,80190,20.51,5,Brown,Bangalore
+Petrol,SUV,Manual,1,Hyundai,Hyundai Creta,2017,10.02,Third Party insurance,54639,15.29,5,Red,Bangalore
+Petrol,SUV,Manual,1,Maruti,Maruti SX4 S Cross,2020,9.75,Comprehensive,50225,18.55,5,Grey,Bangalore
+Diesel,Hatchback,Manual,1,Hyundai,Hyundai i20,2018,7.95,Comprehensive,68017,22.54,5,Blue,Bangalore
+Petrol,Hatchback,Manual,1,Volkswagen,Volkswagen Polo,2016,5.5,Comprehensive,87912,16.2,5,Flash Red,Bangalore
+Petrol,SUV,Manual,1,Tata,Tata Nexon,2021,12.98,Third Party insurance,2045,17.57,5,Black,Bangalore
+Petrol,SUV,Manual,1,Maruti,Maruti SX4 S Cross,2021,10.85,Third Party insurance,24305,18.55,5,Blue,Bangalore
+Petrol,Hatchback,Automatic,1,Tata,Tata Nano,2015,3.35,Comprehensive,2500,25.4,4,Purple,Bangalore
+Petrol,SUV,Automatic,1,Tata,Tata Nexon,2020,11.09,Third Party insurance,31489,17.05,5,Blue,Bangalore
+Petrol,Sedan,Manual,2,Fiat,Fiat Linea,2014,3.5,Not Available,82268,14.6,5,Golden,Bangalore
+Diesel,SUV,Manual,1,Ford,Ford Ecosport,2019,8.95,Third Party insurance,73834,23.0,5,Black,Bangalore
+Diesel,SUV,Manual,2,Toyota,Toyota Fortuner,2014,17.75,Comprehensive,73000,13.0,7,Grey,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Celerio,2017,4.66,Comprehensive,41436,23.1,5,Silver,Bangalore
+Petrol,Sedan,Manual,2,Honda,Honda City,2019,9.24,Zero Dep,19024,17.4,5,Brown,Bangalore
+Diesel,MUV,Manual,1,Mahindra,Mahindra Xylo,2016,7.75,Comprehensive,73000,14.02,8,Red,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Alto 800,2020,3.78,Comprehensive,73140,22.05,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2015,5.55,Comprehensive,29289,22.38,5,Silver,Bangalore
+Petrol,Sedan,Automatic,1,Honda,Honda City,2016,8.99,Comprehensive,39116,18.0,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Alto 800,2019,3.7,Third Party,41958,24.7,5,Silver,Bangalore
+Petrol,SUV,Manual,1,Honda,Honda WR-V,2018,8.1,Third Party insurance,26626,17.5,5,Brown,Bangalore
+Petrol,Hatchback,Automatic,1,Honda,Honda Jazz,2019,7.74,Third Party insurance,63460,18.2,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Santro,2019,5.3,Comprehensive,35711,20.3,5,Red,Bangalore
+Petrol,SUV,Manual,1,Honda,Honda WR-V,2020,9.45,Comprehensive,20057,16.5,5,Brown,Bangalore
+Petrol,Hatchback,Manual,1,Tata,Tata Altroz,2020,8.8,Third Party insurance,25396,19.33,5,Golden,Bangalore
+Diesel,Hatchback,Manual,1,Hyundai,Hyundai i20,2013,5.25,Comprehensive,88000,21.27,5,Brown,Bangalore
+Petrol,SUV,Automatic,1,Jeep,Jeep Compass,2019,16.05,Third Party insurance,62000,14.1,5,Grey,Bangalore
+Petrol,Sedan,Manual,1,Honda,Honda City,2020,11.7,Not Available,35993,18.6,5,PLATINUM WHITE PEARL,Bangalore
+Petrol,Hatchback,Automatic,1,Hyundai,Hyundai Grand i10,2017,6.5,Comprehensive,34000,18.9,5,Silver,Bangalore
+Petrol,SUV,Manual,1,Honda,Honda WR-V,2019,8.75,Comprehensive,51338,17.5,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Grand i10,2015,5.0,Not Available,74280,18.9,5,Wine Red,Bangalore
+Diesel,SUV,Automatic,1,Land Rover,Land Rover Range Rover Sport,2019,95.0,Comprehensive,82000,12.65,5,Grey,Bangalore
+Diesel,Sedan,Automatic,1,Audi,Audi A6,2015,21.95,Comprehensive,63773,17.68,5,Blue,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai Grand i10,2015,3.95,Comprehensive,101356,18.9,5,Red,Bangalore
+Cng,Hatchback,Manual,1,Maruti,Maruti Alto 800,2020,4.21,Third Party insurance,75591,31.59,4,Others,Bangalore
+Petrol,SUV,Automatic,1,Hyundai,Hyundai Creta,2017,13.0,Not Available,72208,13.0,5,Blue,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2014,4.9,Comprehensive,51489,22.38,5,Blue,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Ignis,2017,5.2,Third Party insurance,74643,20.89,5,Others,Bangalore
+Diesel,SUV,Automatic,2,BMW,BMW X5,2008,14.5,Comprehensive,44000,15.3,5,Golden,Bangalore
+Petrol,Hatchback,Automatic,1,Honda,Honda Jazz,2017,6.16,Comprehensive,79575,19.0,5,Silver,Bangalore
+Petrol,SUV,Manual,1,Honda,Honda WR-V,2018,8.25,Comprehensive,54097,17.5,5,White,Bangalore
+Petrol,Sedan,Manual,2,Honda,Honda City,2018,8.38,Comprehensive,35288,17.4,5,Others,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Swift,2019,6.18,Zero Dep,70314,22.56,5,Silver,Bangalore
+Diesel,SUV,Manual,2,Renault,Renault Duster,2017,8.75,Third Party insurance,96939,19.72,5,Black,Bangalore
+Petrol,Hatchback,Manual,2,Nissan,Nissan Micra,2010,3.9,Comprehensive,44824,18.06,5,Red,Bangalore
+Diesel,MUV,Manual,2,Toyota,Toyota Innova,2014,13.49,Third Party insurance,169219,12.99,7,Golden,Bangalore
+Petrol,Sedan,Manual,2,Honda,Honda City,2012,5.0,Third Party,92673,16.8,5,Taffeta White,Bangalore
+Diesel,SUV,Automatic,2,Mercedes-Benz,Mercedes-Benz GL-Class,2014,41.0,Comprehensive,79000,11.3,7,White,Bangalore
+Diesel,SUV,Automatic,1,Jeep,Jeep Compass,2020,21.9,Zero Dep,20183,17.1,5,Minimal Grey,Bangalore
+Petrol,Sedan,Automatic,1,Toyota,Toyota Yaris,2018,7.95,Comprehensive,77130,17.8,5,White,Bangalore
+Petrol,SUV,Automatic,1,Ford,Ford Ecosport,2017,7.75,Comprehensive,45000,14.7,5,Brown,Bangalore
+Petrol,Hatchback,Automatic,2,Maruti,Maruti Baleno,2017,7.45,Third Party insurance,27025,19.56,5,Grey,Bangalore
+Petrol,SUV,Manual,1,Kia,Kia Seltos,2019,11.25,Third Party insurance,105153,16.1,5,White,Bangalore
+Diesel,SUV,Manual,1,Mahindra,Mahindra XUV500,2016,10.3,Comprehensive,70509,16.0,7,Brown,Bangalore
+Petrol,Hatchback,Automatic,2,Renault,Renault KWID,2020,5.82,Zero Dep,11662,22.0,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Grand i10,2018,6.15,Third Party insurance,36176,18.9,5,White,Bangalore
+Petrol,Hatchback,Automatic,2,Honda,Honda Jazz,2015,5.6,Third Party insurance,74342,19.0,5,Red,Bangalore
+Diesel,Hatchback,Manual,1,Maruti,Maruti Baleno,2016,7.1,Third Party,89837,27.39,5,Silver,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Swift,2015,5.35,Third Party,11912,21.21,5,White,Bangalore
+Diesel,Hatchback,Manual,2,Maruti,Maruti Swift,2012,4.46,Third Party,55544,22.9,5,Red,Bangalore
+Petrol,SUV,Automatic,1,Ford,Ford Ecosport,2019,10.18,Comprehensive,27027,14.8,5,White,Bangalore
+Petrol,Sedan,Automatic,1,Honda,Honda City,2017,8.4,Zero Dep,56363,18.0,5,Silver,Bangalore
+Petrol,Sedan,Manual,2,Hyundai,Hyundai Verna,2016,6.54,Comprehensive,42094,17.01,5,Others,Bangalore
+Petrol,SUV,Manual,1,Kia,Kia Seltos,2019,11.25,Comprehensive,114912,16.1,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2016,5.85,Third Party insurance,33649,22.0,5,Red,Bangalore
+Petrol,SUV,Manual,1,Kia,Kia Seltos,2019,12.5,Comprehensive,54000,16.8,5,Orange,Bangalore
+Petrol,Sedan,Manual,2,Hyundai,Hyundai Xcent,2014,4.75,Comprehensive,69798,19.1,5,Silver,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai i10,2010,3.1,Comprehensive,69000,20.36,5,Red,Bangalore
+Diesel,SUV,Automatic,1,Jeep,Jeep Compass,2020,23.95,Zero Dep,49001,17.1,5,White,Bangalore
+Diesel,Sedan,Automatic,2,Hyundai,Hyundai Verna,2017,10.85,Comprehensive,57527,22.0,5,Fiery Red,Bangalore
+Diesel,Hatchback,Manual,1,Fiat,Fiat Punto EVO,2015,4.75,Comprehensive,57367,20.5,5,T Wine,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Wagon R,2015,4.06,Third Party insurance,50936,20.51,5,White,Bangalore
+Diesel,Hatchback,Manual,1,Hyundai,Hyundai i20,2022,10.84,Comprehensive,23237,25.0,5,White,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Celerio,2016,4.45,Comprehensive,66596,23.1,5,Others,Bangalore
+Diesel,SUV,Manual,1,Mahindra,Mahindra XUV500,2016,13.82,Comprehensive,36613,16.0,7,Silver,Bangalore
+Petrol,Sedan,Manual,1,Maruti,Maruti Swift Dzire,2015,6.01,Third Party insurance,74104,20.85,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai Santro,2022,5.94,Zero Dep,6777,20.3,5,White,Bangalore
+Petrol,SUV,Manual,1,Ford,Ford Ecosport,2020,9.6,Comprehensive,14560,15.9,5,White,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti S-Presso,2021,5.75,Comprehensive,27000,21.7,5,White,Bangalore
+Petrol,Sedan,Automatic,2,Honda,Honda City,2015,7.29,Comprehensive,90333,18.0,5,Silver,Bangalore
+Petrol,SUV,Automatic,1,Mini,Mini Cooper Countryman,2019,35.75,Comprehensive,50114,16.6,5,Blue,Bangalore
+Diesel,SUV,Manual,1,Maruti,Maruti Vitara Brezza,2017,9.62,Comprehensive,69301,24.3,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Renault,Renault KWID,2021,4.5,Comprehensive,71306,21.74,5,Blue,Bangalore
+Petrol,Hatchback,Automatic,1,Maruti,Maruti Baleno,2019,8.49,Third Party insurance,35135,19.56,5,Prime Star Gaze,Bangalore
+Diesel,Hatchback,Manual,1,Maruti,Maruti Ritz,2016,5.35,Third Party insurance,40561,23.2,5,White,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2012,4.35,Comprehensive,90000,17.0,5,Brown,Bangalore
+Petrol,Hatchback,Automatic,2,Honda,Honda Jazz,2017,6.85,Comprehensive,60000,19.0,5,Grey,Bangalore
+Diesel,SUV,Automatic,1,BMW,BMW X3,2019,57.5,Comprehensive,30000,16.55,5,White,Bangalore
+Diesel,SUV,Manual,2,Renault,Renault Duster,2016,7.3,Third Party insurance,60000,19.87,5,Brown,Bangalore
+Diesel,SUV,Manual,1,Mahindra,Mahindra XUV500,2015,11.45,Comprehensive,102000,16.0,7,White,Bangalore
+Petrol,Hatchback,Manual,2,Maruti,Maruti Wagon R,2015,4.1,Third Party,41659,18.9,5,Red,Bangalore
+Petrol,Sedan,Automatic,2,Audi,Audi A4,2009,10.75,Comprehensive,85300,12.3,5,White,Bangalore
+Petrol,Sedan,Automatic,2,Hyundai,Hyundai Verna,2017,8.49,Third Party insurance,32483,17.01,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2018,7.49,Third Party insurance,34376,18.6,5,Blue,Bangalore
+Petrol,SUV,Manual,1,Hyundai,Hyundai Creta,2017,8.72,Third Party insurance,36540,15.29,5,Silver,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai i20,2011,3.06,Comprehensive,148625,17.0,5,Silver,Bangalore
+Diesel,Sedan,Automatic,4,Audi,Audi A6,2013,9.95,Third Party insurance,81000,14.57,5,Grey,Bangalore
+Petrol,Hatchback,Manual,2,Hyundai,Hyundai i10,2013,3.48,Third Party insurance,5609,19.81,5,White,Bangalore
+Petrol,Sedan,Automatic,1,Audi,Audi A3,2019,24.25,Third Party insurance,37000,19.2,5,Blue,Bangalore
+Petrol,SUV,Manual,1,Hyundai,Hyundai Alcazar,2021,17.25,Comprehensive,6000,14.5,6,Silver,Bangalore
+Diesel,Sedan,Manual,1,Renault,Renault Fluence,2013,5.0,Third Party,61000,21.8,5,Silver,Bangalore
+Petrol,Hatchback,Automatic,2,Renault,Renault KWID,2018,4.17,Third Party insurance,30285,24.04,5,Silver,Bangalore
+Diesel,Sedan,Manual,2,Volkswagen,Volkswagen Vento,2011,3.99,Third Party insurance,80153,20.54,5,White,Bangalore
+Petrol,Hatchback,Automatic,1,Hyundai,Hyundai Grand i10,2016,5.41,Comprehensive,49641,18.9,5,Others,Bangalore
+Petrol,Hatchback,Automatic,2,Maruti,Maruti Baleno,2016,5.68,Comprehensive,83075,21.4,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Baleno,2018,7.3,Comprehensive,45677,21.4,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Celerio,2017,4.46,Comprehensive,81849,23.1,5,White,Bangalore
+Diesel,Hatchback,Manual,2,Maruti,Maruti Swift,2015,6.38,Comprehensive,67791,25.2,5,Silver,Bangalore
+Diesel,SUV,Automatic,1,Volvo,Volvo XC40,2018,37.5,Comprehensive,38100,18.0,5,Red,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2018,6.94,Third Party insurance,65015,18.6,5,Others,Bangalore
+Diesel,SUV,Automatic,2,Mercedes-Benz,Mercedes-Benz GLC,2018,47.0,Comprehensive,47000,17.9,5,Blue,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Swift,2014,4.93,Third Party,62029,22.38,5,White,Bangalore
+Diesel,Hatchback,Manual,1,Maruti,Maruti Swift,2017,6.37,Comprehensive,94926,25.2,5,Silver,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2012,3.65,Not Available,119487,17.0,5,Grey,Bangalore
+Diesel,SUV,Manual,1,Mahindra,Mahindra Bolero,2019,8.25,Third Party insurance,126000,15.96,7,White,Bangalore
+Diesel,Sedan,Manual,1,Volkswagen,Volkswagen Ameo,2017,6.45,Comprehensive,70332,21.66,5,Grey,Bangalore
+Petrol,Hatchback,Manual,1,Maruti,Maruti Ignis,2017,5.85,Third Party insurance,37950,20.89,5,Grey,Bangalore
+Petrol,Hatchback,Manual,1,Hyundai,Hyundai i20,2019,8.35,Comprehensive,38100,18.6,5,Silver,Bangalore
+Diesel,SUV,Manual,2,Toyota,Toyota Fortuner,2012,16.49,Comprehensive,156039,12.55,7,Blue,Bangalore
+Petrol,Sedan,Manual,2,Maruti,Maruti SX4,2008,3.3,Third Party insurance,56000,15.0,5,Red,Bangalore
+Petrol,Hatchback,Manual,2,Honda,Honda Brio,2014,4.25,Comprehensive,42000,19.4,5,White,Bangalore
+Diesel,Hatchback,Manual,1,Hyundai,Hyundai i20,2018,7.5,Comprehensive,93003,22.54,5,Red,Bangalore
+Petrol,Hatchback,Automatic,2,Hyundai,Hyundai Grand i10,2017,6.75,Comprehensive,36000,18.9,5,White,Bangalore
